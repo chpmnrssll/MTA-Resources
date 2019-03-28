@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" name="recoil" type="script"/>
+	<script src="recoil_client.lua" type="client"/>
+</meta>

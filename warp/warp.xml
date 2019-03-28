@@ -1,0 +1,469 @@
+<map>
+	<!--Format
+	<warp id="" to="" posX="" posY="" posZ="" rotation="" interior="" dimension="" name="" class="" subclass=""/>
+	<warp id="" to="" posX="" posY="" posZ="" rotation="" interior="" dimension=""/>
+	-->
+
+<!--BCGunshop-->
+	<warp id="Gunrange" to="Gunshop" posX="793.89" posY="1687.10" posZ="5.28" rotation="270" interior="0" dimension="0" name="Enter"/>
+	<warp id="Gunshop" to="Gunrange" posX="787.93" posY="1686.25" posZ="42.21" rotation="90" interior="1" dimension="1" name="Exit"/>
+<!--BCBunker-->
+	<warp id="Gunrange1" to="Bunker" posX="813.70" posY="1673.71" posZ="5.28" rotation="180" interior="0" dimension="0" hidden="true"/>
+	<warp id="Bunker" to="Gunrange1" posX="813.67" posY="1675.72" posZ="5.28" rotation="0" interior="0" dimension="0" hidden="true"/>
+
+<!--AssassinsMemorial-->
+	<warp id="[NW]MEMORIAL" to="[NW]TOMB" posX="-1619.03" posY="903.06" posZ="7.7" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="[NW]TOMB" to="[NW]MEMORIAL" posX="-1614" posY="901.80" posZ="48.78" rotation="180" interior="1" dimension="1" name="Exit"/>
+
+	<warp id="[NE]MEMORIAL" to="[NE]TOMB" posX="-1581.30" posY="903.06" posZ="7.7" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="[NE]TOMB" to="[NE]MEMORIAL" posX="-1586.39" posY="901.80" posZ="48.78" rotation="180" interior="1" dimension="1" name="Exit"/>
+
+	<warp id="[SE]MEMORIAL" to="[SE]TOMB" posX="-1581.30" posY="867.93" posZ="7.7" rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="[SE]TOMB" to="[SE]MEMORIAL" posX="-1586.39" posY="871.39" posZ="48.78" rotation="0" interior="1" dimension="1" name="Exit"/>
+
+	<warp id="[SW]MEMORIAL" to="[SW]TOMB" posX="-1618.97" posY="867.93" posZ="7.7" rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="[SW]TOMB" to="[SW]MEMORIAL" posX="-1613.99" posY="871.39" posZ="48.78" rotation="0" interior="1" dimension="1" name="Exit"/>
+
+<!--AssassinsVault-->
+	<warp id="ASSASSINGARAGE" to="ASSASSINHALL" posX="1509.90" posY="-1464.22" posZ="9.5" rotation="270" interior="0" dimension="0" name="Enter"/>
+	<warp id="ASSASSINHALL" to="ASSASSINGARAGE" posX="1546.39" posY="-1464.26" posZ="82.9" rotation="90" interior="1" dimension="1" name="Garage"/>
+
+	<warp id="ASSASSINHALLBACKDOOR" to="VAULT" posX="1528.75" posY="-1480.56" posZ="80.9" rotation="270" interior="1" dimension="1" name="Vault"/>
+	<warp id="VAULT" to="ASSASSINHALLBACKDOOR" posX="1457.21" posY="-1482.07" posZ="70.3" rotation="0" interior="1" dimension="1" name="Exit"/>
+
+<!--DriftKingMichele-->
+	<warp id="DRIFTKINGMOD" to="DRIFTSHOP" posX="-1799.94" posY="1200.39" posZ="25.125" rotation="180" interior="0" dimension="0" name="Mod Shop"/>
+	<warp id="DRIFTSHOP" to="DRIFTKINGMOD" posX="-1803.55" posY="1197.51" posZ="42.21" rotation="0" interior="1" dimension="1" name="Exit"/>
+
+	<warp id="DRIFTKINGMODGARAGE" to="DRIFTSHOPBACK" posX="-1789.64" posY="1218.68" posZ="25.125" rotation="270" interior="0" dimension="0" hidden="true"/>
+	<warp id="DRIFTSHOPBACK" to="DRIFTKINGMODGARAGE" posX="-1800.16" posY="1211.97" posZ="42.21" rotation="90" interior="1" dimension="1" hidden="true"/>
+
+<!--DriftKingGarage-->
+	<warp id="DRIFTKING" to="DRIFTGARAGE" posX="-2746.28" posY="167.30" posZ="7.13" rotation="180" interior="0" dimension="0" name="Garage"/>
+	<warp id="DRIFTGARAGE" to="DRIFTKING" posX="-2747.68" posY="228.5" posZ="-15.49" rotation="180" interior="0" dimension="0" name="Exit"/>
+
+<!--Missionary Hill-->
+	<warp id="FrontDoor" to="Lobby" posX="-2527.79" posY="-624.40" posZ="132.5" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="Lobby" to="FrontDoor" posX="-2534.39" posY="-624.82" posZ="171.34" rotation="270" interior="6" dimension="0" name="Exit"/>
+	
+	<warp id="LobbyRoom" to="Offices" posX="-2517.29" posY="-625.80" posZ="171.15" rotation="90" interior="6" dimension="0" hidden="true"/>
+	<warp id="Offices" to="LobbyRoom" posX="-2442.59" posY="-634.95" posZ="169.45" rotation="90" interior="6" dimension="0" hidden="true"/>
+	
+	<warp id="BackDoor" to="BackOffices" posX="-2535.19" posY="-688.66" posZ="139" rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="BackOffices" to="BackDoor" posX="-2477.71" posY="-624.35" posZ="169.45" rotation="270" interior="6" dimension="0" name="Exit"/>
+	
+	<warp id="Roof" to="TopStairs" posX="-2537.44" posY="-633.75" posZ="147.90" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="TopStairs" to="Roof" posX="-2521.95" posY="-636.86" posZ="183" rotation="270" interior="6" dimension="0" name="Exit"/>
+	
+	<warp id="BottomStairs" to="Basement" posX="-2518.71" posY="-639.94" posZ="165.5" rotation="180" interior="6" dimension="0" hidden="true"/>
+	<warp id="Basement" to="BottomStairs" posX="-2500.05" posY="-625.18" posZ="40.19" rotation="0" interior="6" dimension="0" hidden="true"/>
+	
+<!--Ghost Town-->
+	<warp id="BARoutside" to="BARinside" posX="-384.5" posY="2206.15" posZ="42.42" rotation="270" interior="0" dimension="0" hidden="True"/>
+	<warp id="BARinside" to="BARoutside" posX="681.47" posY="-446.4" posZ="-25.61" rotation="180" interior="1" dimension="69" hidden="True"/>
+	
+	<warp id="SHITHOLEout" to="SHITHOLEinside" posX="-376.32" posY="2260.39" posZ="42.25" rotation="90" interior="0" dimension="0" hidden="True"/>
+	<warp id="SHITHOLEinside" to="SHITHOLEout" posX="327.98" posY="1477.72" posZ="1084.43" rotation="0" interior="15" dimension="69" hidden="True"/>
+	
+	<warp id="SHITHOLE2out" to="SHITHOLE2inside" posX="-431.05" posY="2240.53" posZ="42.25" rotation="180" interior="0" dimension="0" hidden="True"/>
+	<warp id="SHITHOLE2inside" to="SHITHOLE2out" posX="2333.09" posY="-1077.35" posZ="1049.02" rotation="0" interior="6" dimension="69" hidden="True"/>
+
+<!--Los Santo Authorites-->
+	<warp id="LSPOLICE" to="LSPOLICE IN" posX="1555.5013427734" posY="-1675.6260986328" posZ="16.20" rotation="90" interior="0" dimension="0" name="Enter"/>
+	<warp id="LSPOLICE IN" to="LSPOLICE" posX="246.81304931641" posY="62.33" posZ="1003.64" rotation="0" interior="6" dimension="0"	name="Exit"/>
+
+	<warp id="LSGARAGE" to="LSPOLICE1" posX="1568.53" posY="-1689.97" posZ="6.21875" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="LSPOLICE1" to="LSGARAGE" posX="269.87" posY="90.83" posZ="1001.0390625" rotation="90" interior="6" dimension="0"	name="Garage"/>
+
+	<warp id="LSPOLICE2" to="ARMORY" posX="268.48" posY="75.82" posZ="1001.04" rotation="0" interior="6" dimension="0" name="Armory"/>
+	<warp id="ARMORY" to="LSPOLICE2" posX="260.25" posY="93.67" posZ="1011.31" rotation="180" interior="6" dimension="0" name="Exit"/>
+
+	<warp id="LSPOLICE3" to="LSROOF" posX="242.24" posY="66.34" posZ="1003.67" rotation="270" interior="6" dimension="0" name="Roof access"/>
+	<warp id="LSROOF" to="LSPOLICE3" posX="1564.74" posY="-1666.87" posZ="28.39" rotation="0" interior="0" dimension="0" name="Enter"/>
+<!--San Fierro Authorites-->
+	<warp id="SFPOLICE" to="SFPOLICE IN" posX="-1605.5478515625" posY="710.2919921875" posZ="13.8671875" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="SFPOLICE IN" to="SFPOLICE" posX="246.4169921875" posY="107.2978515625" posZ="1003.21875" rotation="0" interior="10" dimension="0" name="Exit"/>
+
+	<warp id="SFGARAGE" to="SFPOLICE1" posX="-1594.21" posY="716.167" posZ="-4.90625" rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="SFPOLICE1" to="SFGARAGE" posX="214.12" posY="114.72" posZ="999.015" rotation="270" interior="10" dimension="0" name="Garage"/>
+
+	<warp id="SFPOLICE2" to="ARMORY2" posX="260.25" posY="93.67" posZ="1011.31" rotation="180" interior="10" dimension="2" name="Exit"/>
+	<warp id="ARMORY2" to="SFPOLICE2" posX="228.8193359375" posY="114.5537109375" posZ="999.015625" rotation="90" interior="10" dimension="0" name="Armory"/>
+
+	<warp id="SFPOLICE3" to="SFROOF" posX="278.36" posY="125.125" posZ="1008.82" rotation="90" interior="10" dimension="0" name="Roof access"/>
+	<warp id="SFROOF" to="SFPOLICE3" posX="-1642.22" posY="698.35" posZ="38.24" rotation="90" interior="0" dimension="0" name="Enter"/>
+<!--Los Venturas Authorites-->
+	<warp id="LVPOLICE" to="LVPOLICE IN" posX="2290.15625" posY="2432.078125" posZ="10.8203125" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="LVPOLICE IN" to="LVPOLICE" posX="238.66015625" posY="138.69140625" posZ="1003.0234375" rotation="0" interior="3" dimension="0"	name="Exit"/>
+
+	<warp id="LVPOLICE1" to="LVPOLICE IN1" posX="2340.212890625" posY="2458.9833984375" posZ="14.96875" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="LVPOLICE IN1" to="LVPOLICE1" posX="288.7880859375" posY="166.9833984375" posZ="1007.171875" rotation="0" interior="3" dimension="0"	name="Exit"/>
+
+	<warp id="LVPOLICEBACKDOOR" to="LVPOLICEJAIL" posX="2297.25" posY="2451.49" posZ="10.82" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="LVPOLICEJAIL" to="LVPOLICEBACKDOOR" posX="188.00" posY="158.36" posZ="1003.02" rotation="270" interior="3" dimension="0"	name="Exit"/>
+
+	<warp id="LVPOLICE2" to="ARMORY3" posX="193.54" posY="180.67" posZ="1003.023" rotation="180" interior="3" dimension="0" name="Armory"/>
+	<warp id="ARMORY3" to="LVPOLICE2" posX="260.25" posY="93.67" posZ="1011.31" rotation="180" interior="3" dimension="1" name="Exit"/>
+
+	<warp id="LVPOLICE3" to="LVROOF" posX="238.94" posY="196.96" posZ="1008.17" rotation="180" interior="3" dimension="0" name="Roof access"/>
+	<warp id="LVROOF" to="LVPOLICE3" posX="2279.64" posY="2458.23" posZ="38.68" rotation="0" interior="0" dimension="0" name="Enter"/>
+	
+<!--Fort Carson Authorites-->
+	<warp id="COUNTYPOLICE" to="COUNTYPOLICE IN" posX="-218.00" posY="979.142578125" posZ="19.504034042358" rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="COUNTYPOLICE IN" to="COUNTYPOLICE" posX="322.1552734375" posY="302.369140625" posZ="999.1484375" rotation="0" interior="5" dimension="0" 	name="Exit"/>
+<!--El Quebrados Authorites-->
+	<warp id="EQCOUNTYPOLICE" to="EQCOUNTYPOLICE IN" posX="-1390.05" posY="2639.61" posZ="55.98" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="EQCOUNTYPOLICE IN" to="EQCOUNTYPOLICE" posX="322.1552734375" posY="302.369140625" posZ="999.1484375" rotation="0" interior="5" dimension="1" 	name="Exit"/>
+<!--Angel Pine Authorites-->
+	<warp id="APCOUNTYPOLICE" to="APCOUNTYPOLICE IN" posX="-2161.27" posY="-2384.84" posZ="30.89" rotation="135" interior="0" dimension="0"	name="Enter"/>
+	<warp id="APCOUNTYPOLICE IN" to="APCOUNTYPOLICE" posX="322.1552734375" posY="302.369140625" posZ="999.1484375" rotation="0" interior="5" dimension="2" 	name="Exit"/>
+
+<!--New Italian base-->
+	<warp id="ITALIANout" to="ITALIANin" posX="2540.47" posY="-1304.01" posZ="34.94" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="ITALIANin" to="ITALIANout" posX="2578.13" posY="-1284.96" posZ="1054.64" rotation="270" interior="2" dimension="0"	name="Exit"/>
+
+<!--Old Italian base-->
+	<warp id="ITALIANWAREHOUSE" to="ITALIANWAREHOUSE IN" posX="2318.7099609375" posY="-2303.8173828125" posZ="13.546875"	rotation="135.5" interior="0" dimension="0"	name="Enter"/>
+	<warp id="ITALIANWAREHOUSE IN" to="ITALIANWAREHOUSE" posX="1292.6025390625" posY="7.880859375" posZ="1001.0078125" rotation="180" interior="18" dimension="0"	name="Exit"/>
+
+<!--(Los Santos Mexican) Ghetto Hotel-->
+	<warp id="MEXICANHOTEL" to="MEXICANHOTEL IN" posX="2233.2890625" posY="-1159.7685546875" posZ="25.890625"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="MEXICANHOTEL IN" to="MEXICANHOTEL" posX="2214.384765625" posY="-1150.5390625" posZ="1025.796875" rotation="270" interior="15" dimension="0"	name="Exit"/>
+	<warp id="MEXICANHOTEL2" to="MEXICANHOTEL2 IN" posX="2193.17" posY="-1151.44" posZ="33.52"	rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="MEXICANHOTEL2 IN" to="MEXICANHOTEL2" posX="2193.25" posY="-1147.65" posZ="1033.79" rotation="0" interior="15" dimension="0" name="Exit"/>
+
+<!--(Los Santos Russian) Private Kitchen/Hotel-->
+	<warp id="RUSSIAN" to="RUSSIAN IN" posX="725.6" posY="-1451" posZ="17.69" rotation="0" interior="0" dimension="0"	name="Enter"/>
+	<warp id="RUSSIAN IN" to="RUSSIAN" posX="-794.94" posY="489.55" posZ="1376.19" rotation="0" interior="1" dimension="0"	name="Exit"/>
+	<warp id="RUSSIAN2" to="RUSSIAN IN2" posX="718.64" posY="-1476.21" posZ="5.46"	rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="RUSSIAN IN2" to="RUSSIAN2" posX="-789.39" posY="510.72" posZ="1367.36" rotation="180" interior="1" dimension="0"	name="Exit"/>
+
+<!--(Los Santos Triad) Market Center-->
+	<warp id="TRIADBUISNESS" to="TRIADBUISNESS IN" posX="1727.0380859375" posY="-1637.037109375" posZ="20.217393875122"	rotation="0" interior="0" dimension="0"	name="Enter"/>
+	<warp id="TRIADBUISNESS IN" to="TRIADBUISNESS" posX="1726.939453125" posY="-1637.978515625" posZ="20.223011016846" rotation="180" interior="18" dimension="0"	name="Exit"/>
+	<warp id="TRIADBUISNESS2" to="TRIADBUISNESS2 IN" posX="1699.15" posY="-1667.88" posZ="20.19"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="TRIADBUISNESS2 IN" to="TRIADBUISNESS2" posX="1700.58" posY="-1667.84" posZ="20.21" rotation="270" interior="18" dimension="0"	name="Exit"/>
+
+<!--(San Fiero Russian) Vank Hoff Hotel-->
+	<warp id="VANKHOFFdoor" to="VANKHOFFroom" posX="-2426.19" posY="338.07" posZ="36.99" rotation="235" interior="0" dimension="0"	name="Enter" subclass="Russian" />
+	<warp id="VANKHOFFroom" to="VANKHOFFdoor" posX="2233.78" posY="-1115.09" posZ="1050.88" rotation="0" interior="5" dimension="0"	name="Exit"/>
+
+<!--(San Fiero Triads) Woozie's place-->
+	<warp id="TRIADWOOZ" to="TRIADWOOZ IN" posX="-2156.484375" posY="645.392578125" posZ="52.3671875" rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="TRIADWOOZ IN" to="TRIADWOOZ" posX="-2158.6474609375" posY="643.25" posZ="1052.375" rotation="180" interior="1" dimension="0"	name="Exit"/>
+	<warp id="TRIADWOOZ2" to="TRIADWOOZ2 IN" posX="-2172.47" posY="636.52" posZ="60" rotation="90" interior="0" dimension="0" hidden="true"/>
+	<warp id="TRIADWOOZ2 IN" to="TRIADWOOZ2" posX="-2157.69" posY="644.12" posZ="1059" rotation="90" interior="1" dimension="0" hidden="true"/>
+
+<!--(Los Venturas Italian) Caligula's Main/Hall/Suite-->
+	<warp id="CALIGULACASINO" to="CALIGULAMAIN IN" posX="2196.9658203125" posY="1677.1708984375" posZ="12.3671875"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="CALIGULAMAIN IN" to="CALIGULACASINO" posX="2233.9228515625" posY="1714.6748046875" posZ="1012.3828125" rotation="180" interior="1" dimension="0"	name="Exit"/>
+
+	<warp id="OFFICEoutside" to="OFFICEinside" posX="2192.97" posY="1573.54" posZ="1008" rotation="0" interior="1" dimension="0"	name="Enter" subclass="Italian"/>
+	<warp id="OFFICEinside" to="OFFICEoutside" posX="2293.37" posY="1640.83" posZ="1022" rotation="0" interior="1" dimension="0"	name="Exit"/>
+
+<!--(Los Venturas Mexican) Butcher Shop-->
+	<warp id="MEXICANBUTCHER" to="MEXICANBUTCHER IN" posX="966.2451171875" posY="2160.6484375" posZ="10.8203125"	rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="MEXICANBUTCHER IN" to="MEXICANBUTCHER" posX="965.25" posY="2160.0771484375" posZ="1011.0302734375" rotation="90" interior="1" dimension="0"	name="Exit"/>
+	<warp id="MEXICANBUTCHER2" to="MEXICANBUTCHER2 IN" posX="948.62" posY="2179.54" posZ="10.82"	rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="MEXICANBUTCHER2 IN" to="MEXICANBUTCHER2" posX="948.59" posY="2177.94" posZ="1011.023" rotation="180" interior="1" dimension="0"	name="Exit"/>
+	<warp id="MEXICANBUTCHER3" to="MEXICANBUTCHER3 IN" posX="966.94" posY="2102.02" posZ="10.82"	rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="MEXICANBUTCHER3 IN" to="MEXICANBUTCHER3" posX="965.37" posY="2107.77" posZ="1011.03" 	rotation="180" interior="1" dimension="0"	name="Exit"/>
+
+<!--(Los Venturas Russian) Private Bar/Casino-->
+	<warp id="RUSSIANCASINO" to="RUSSIANLOBBY" posX="1658.494140625" posY="2250.0458984375" posZ="11.07010269165"	rotation="0" interior="0" dimension="0"	name="Enter"/>
+	<warp id="RUSSIANLOBBY" to="RUSSIANCASINO" posX="1133.1669921875" posY="-15.83203125" posZ="1000.6796875" rotation="0" interior="12" dimension="0"	name="Exit"/>
+
+<!--(Los Venturas Triads) Four Dragons Casino/Office-->
+	<warp id="TRIADCASINO" to="TRIAD4DRAG IN" posX="2019.322265625" posY="1007.724609375" posZ="10.8203125"	rotation="280" interior="0" dimension="0"	name="Enter"/>
+	<warp id="TRIAD4DRAG IN" to="TRIADCASINO" posX="2019.068359375" posY="1017.8759765625" posZ="996.875" rotation="90" interior="10" dimension="0"	name="Exit"/>
+
+	<warp id="TRIAD4DRAG" to="TRIADOFFICE IN" posX="1963.74609375" posY="972.44140625" posZ="994.46875" rotation="32" interior="10" dimension="0" name="Enter" subclass="Yakuza"/>
+	<warp id="TRIADOFFICE IN" to="TRIAD4DRAG" posX="1967.7998046875" posY="952.99609375" posZ="1029.7265625" rotation="280" interior="10" dimension="0"	name="Exit"/>
+
+<!--Los Santo Club-->
+	<warp id="CLUB" to="CLUB IN" posX="1837.0355224609" posY="-1682.3647460938" posZ="13.322984695435" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="CLUB IN" to="CLUB" posX="493.39147949219" posY="-24.875425338745" posZ="1000.6796875" rotation="0" interior="17" dimension="0"	name="Exit"/>
+
+<!--San Fierro Club-->
+	<warp id="San Fierro Club" to="San Fierro Club IN" posX="-2551.39" posY="194.35" posZ="6.22" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="San Fierro Club IN" to="San Fierro Club" posX="493.39147949219" posY="-24.875425338745" posZ="1000.6796875" rotation="0" interior="17" dimension="1"	name="Exit"/>
+
+<!--Los Venturas Club-->
+	<warp id="Los Venturas Club" to="Los Venturas Club IN" posX="2507.32" posY="1242.26" posZ="10.82" rotation="0" interior="0" dimension="0"	name="Enter"/>
+	<warp id="Los Venturas Club IN" to="Los Venturas Club" posX="493.39147949219" posY="-24.875425338745" posZ="1000.6796875" rotation="0" interior="17" dimension="2"	name="Exit"/>
+
+<!--Los Santo Stripper Club-->
+	<warp id="STRIPPER" to="STRIPPERLOBBY" posX="2421.49" posY="-1219.24" posZ="25.56" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="STRIPPERLOBBY" to="STRIPPER" posX="1204.7940" posY="-13.8507" posZ="1000.9218" rotation="0" interior="2" dimension="0"	name="Exit"/>
+
+<!--San Fierro Jizzy's Club-->
+	<warp id="STRIPPER1" to="STRIPPERLOBBY1" posX="-2624.77" posY="1412.72" posZ="7.09" rotation="183" interior="0" dimension="0"	name="Enter"/>
+	<warp id="STRIPPERLOBBY1" to="STRIPPER1" posX="-2636.72" posY="1402.46" posZ="906.46" rotation="0" interior="3" dimension="0"	name="Exit"/>
+	<warp id="STRIPPER12" to="STRIPPERLOBBY12" posX="-2661.11" posY="1422.96" posZ="23.89" rotation="0" interior="0" dimension="0" hidden="true"/>
+	<warp id="STRIPPERLOBBY12" to="STRIPPER12" posX="-2661.44" posY="1417.93" posZ="923" rotation="180" interior="3" dimension="0" hidden="true"/>
+
+<!--Los Venturas Stripper Club-->
+	<warp id="STRIPPER2" to="STRIPPERLOBBY2" posX="2506.8520" posY="2120.2834" posZ="10.8398" rotation="0" interior="0" dimension="0"	name="Enter"/>
+	<warp id="STRIPPERLOBBY2" to="STRIPPER2" posX="1204.7940" posY="-13.8507" posZ="1000.9218" rotation="0" interior="2" dimension="1"	name="Exit"/>
+
+<!--Los Santo Bar-->
+	<warp id="BARout" to="BARin" posX="2310.05" posY="-1643.50" posZ="14.82" rotation="135" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BARin" to="BARout" posX="501.90" posY="-67.56" posZ="998.75" rotation="180" interior="11" dimension="0"	name="Exit"/>
+
+<!--San Fiero Bar-->
+	<warp id="outside" to="inside" posX="-2242.14" posY="-88.23" posZ="35.32" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="inside" to="outside" posX="501.90" posY="-67.56" posZ="998.75" rotation="180" interior="11" dimension="1"	name="Exit"/>
+
+<!--Los Venturas Bar-->
+	<warp id="BARout1" to="BARin1" posX="2441.13" posY="2065.47" posZ="10.82" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BARin1" to="BARout1" posX="501.90" posY="-67.56" posZ="998.75" rotation="180" interior="11" dimension="2"	name="Exit"/>
+
+<!--LiL Probe Inn-->
+	<warp id="LILPROBEout" to="LILPROBEin" posX="-89.61" posY="1378.25" posZ="10.46" rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="LILPROBEin" to="LILPROBEout" posX="-229.29" posY="1401.16" posZ="27.76" rotation="270" interior="18" dimension="0"	name="Exit"/>
+	<warp id="LILPROBEout2" to="LILPROBEin2" posX="-101.54" posY="1374.62" posZ="10.46" rotation="90" interior="0" dimension="0"	name="Enter" subclass="Biker"/>
+	<warp id="LILPROBEin2" to="LILPROBEout2" posX="-217.40" posY="1402.77" posZ="27.77" rotation="90" interior="18" dimension="0"	name="Exit"/>
+	
+<!--Farmer's house-->
+	<warp id="Farm" to="FarmIN" posX="300.12" posY="1141.28" posZ="9.13" rotation="270" interior="0" dimension="0" name="Enter"/>
+	<warp id="FarmIN" to="Farm" posX="-68.75" posY="1351.19" posZ="1080.21" rotation="0" interior="6" dimension="0"	name="Exit"/>
+	
+<!--Big Dogg's Mansion-->
+	<warp id="BigDoggoutside" to="BigDogginside" posX="1298.46" posY="-798.12" posZ="84.14" rotation="180" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BigDogginside" to="BigDoggoutside" posX="1298.92" posY="-796.47" posZ="1084" rotation="0" interior="5" dimension="0"	name="Exit"/>
+
+<!--Zero's Shop-->
+	<warp id="Zerooutside" to="Zeroinside" posX="-2242.12" posY="128.64" posZ="35.32" rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="Zeroinside" to="Zerooutside" posX="-2240.44" posY="128.35" posZ="1035.42" rotation="270" interior="6" dimension="0"	name="Exit"/>
+
+<!--LS Downtown Bank-->
+	<warp id="LSBankoutside" to="LSBankinside" posX="1788.259765625" posY="-1298.607421875" posZ="13.37" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="LSBankinside" to="LSBankoutside" posX="390.76" posY="173.79" posZ="1008.38" rotation="90" interior="3" dimension="0"	name="Exit"/>
+	
+	<warp id="LobbyDoor" to="TopFloor" posX="372.03" posY="166.75" posZ="1008.38" rotation="0" interior="3" dimension="0" name="Office"/>
+	<warp id="TopFloor" to="LobbyDoor" posX="1818.11" posY="-1291.45" posZ="120.23" rotation="90" interior="0" dimension="0" name="Lobby"/>
+	
+<!--SF Big Pointy Bank-->
+	<warp id="SFBankoutside" to="SFBankinside" posX="-1749.32" posY="870.99" posZ="25.08" rotation="180" interior="0" dimension="0" name="Enter"/>
+	<warp id="SFBankinside" to="SFBankoutside" posX="390.76" posY="173.79" posZ="1008.38" rotation="90" interior="3" dimension="1"	name="Exit"/>
+
+	<warp id="BANKFLOOR" to="TOPFLOOR" posX="372.03" posY="166.75" posZ="1008.38" rotation="0" interior="3" dimension="1" name="Roof Access"/>
+	<warp id="TOPFLOOR" to="BANKFLOOR" posX="-1753.67" posY="883.83" posZ="295.60" rotation="0" interior="0" dimension="0"/>
+
+<!--LV Downtown Bank-->
+	<warp id="LVBankoutside" to="LVBankinside" posX="2447.68" posY="2376.26" posZ="12.16" rotation="90" interior="0" dimension="0" name="Enter"/>
+	<warp id="LVBankinside" to="LVBankoutside" posX="390.76" posY="173.79" posZ="1008.38" rotation="90" interior="3" dimension="2"	name="Exit"/>
+
+	<warp id="SecondFloor" to="PrivateOffice" posX="327.32" posY="174" posZ="1014.18" rotation="270" interior="3" dimension="2" name="Office"/>
+	<warp id="PrivateOffice" to="SecondFloor" posX="1777.43" posY="-1776.95" posZ="66" rotation="270" interior="3" dimension="2"	name="Lobby"/>
+
+<!--SF Federal Mint-->
+	<warp id="FederalGarage" to="FederalStorage" posX="-2447.65" posY="523" posZ="30.15" rotation="270" interior="0" dimension="0" name="Employees Only"/>
+	<warp id="FederalStorage" to="FederalGarage" posX="2472" posY="-1329.86" posZ="1054.25" rotation="270" interior="2" dimension="0" name="Exit"/>
+
+<!--Blood Bowl, Corvin Stadium, San Fierro-->
+	<warp id="bloodBowl" to="bloodBowlIN" posX="-2109.66" posY="-444.15" posZ="38.73" rotation="90" interior="0" dimension="0" name="Enter"/>
+	<warp id="bloodBowlIN" to="bloodBowl" posX="-1424.25" posY="928.21" posZ="1036.39" rotation="0" interior="15" dimension="0" name="Exit"/>
+<!--Dirt Ring, Las Venturas-->
+	<warp id="dirtring" to="dirtringIN" posX="1097.88" posY="1597.78" posZ="12.54" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="dirtringIN" to="dirtring" posX="-1435.8690" posY="-662.2505" posZ="1052.4650" rotation="0" interior="4" dimension="0" name="Exit"/>
+<!--8 Track, Los Santos-->
+	<warp id="8track" to="8trackIN" posX="2694.54" posY="-1707.25" posZ="11.84" rotation="0" interior="0" dimension="0" name="Enter"/>
+	<warp id="8trackIN" to="8track" posX="-1405.23" posY="-260.65" posZ="1043.65" rotation="0" interior="7" dimension="0" name="Exit"/>
+	
+<!-- Burger Shot -->
+	<!--Marina, Los Santos-->
+	<warp id="BurgerShot_Out1" to="BurgerShot_Int1" posX="810.48"	posY="-1616.25"	posZ="13.54"	rotation="270" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int1" to="BurgerShot_Out1" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="0"	name="Exit"/>
+	<!--Mulholland, Los Santos-->
+	<warp id="BurgerShot_Out2" to="BurgerShot_Int2" posX="1199.13"	posY="-918.071"	posZ="43.12"	rotation="180" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int2" to="BurgerShot_Out2" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="1"	name="Exit"/>
+	<!--Calton Heights, San Fierro-->
+	<warp id="BurgerShot_Out3" to="BurgerShot_Int3" posX="-2356.48"	posY="1008.01"	posZ="50.89"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int3" to="BurgerShot_Out3" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="2"	name="Exit"/>
+	<!--Doherty, San Fierro-->
+	<warp id="BurgerShot_Out4" to="BurgerShot_Int4" posX="-2336.95"	posY="-166.646"	posZ="35.55"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int4" to="BurgerShot_Out4" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="3"	name="Exit"/>
+	<!--Financial, San Fierro-->
+	<warp id="BurgerShot_Out5" to="BurgerShot_Int5" posX="-1912.27"	posY="828.025"	posZ="34.5615"	rotation="305" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int5" to="BurgerShot_Out5" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="4"	name="Exit"/>
+	<!--Spinybed, Las Venturas-->
+	<warp id="BurgerShot_Out6" to="BurgerShot_Int6" posX="2169.86"	posY="2795.79"	posZ="10.82"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int6" to="BurgerShot_Out6" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="5"	name="Exit"/>
+	<!--Whitewood Estates, Las Venturas-->
+	<warp id="BurgerShot_Out7"	to="BurgerShot_Int7"	posX="1158.43"	posY="2072.02"	posZ="11.06"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int7" to="BurgerShot_Out7"	posX="362.88"   posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="6"	name="Exit"/>
+	<!--Redsands East, Las Venturas-->
+	<warp id="BurgerShot_Out8" to="BurgerShot_Int8" posX="1872.24"	posY="2072.07"	posZ="11.06"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int8" to="BurgerShot_Out8" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="7"	name="Exit"/>
+	<!--Old Venturas Strip, Las Venturas-->
+	<warp id="BurgerShot_Out9" to="BurgerShot_Int9" posX="2366.74"	posY="2071.02"	posZ="10.82"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int9" to="BurgerShot_Out9" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="8"	name="Exit"/>
+	<!--Old Venturas Strip, Las Venturas-->
+	<warp id="BurgerShot_Out10" to="BurgerShot_Int10" posX="2472.68"	posY="2033.88"	posZ="11.06"	rotation="90" interior="0" dimension="0"	name="Enter"/>
+	<warp id="BurgerShot_Int10" to="BurgerShot_Out10" posX="362.88"	posY="-75.18"	posZ="1001.55"	rotation="305" interior="10" dimension="9"	name="Exit"/>
+	
+<!-- Cluckin' Bell Happy Chicken-->
+	<!--Willowfield, Los Santos-->
+	<warp	id="CluckinBell_Out1"	to="CluckinBell_Int1"	posX="2397.83"	posY="-1898.65"	posZ="13.7131"	rotation="0"   interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int1"	to="CluckinBell_Out1"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="0"	name="Exit"/>
+	<!--East Los Santos, Los Santos-->
+	<warp	id="CluckinBell_Out2"	to="CluckinBell_Int2"	posX="2419.95"	posY="-1509.8"	posZ="24.1568"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int2"	to="CluckinBell_Out2"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="1"	name="Exit"/>
+	<!--Market, Los Santos-->
+	<warp	id="CluckinBell_Out3"	to="CluckinBell_Int3"	posX="928.525"	posY="-1352.77"	posZ="13.4344"	rotation="90"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int3"	to="CluckinBell_Out3"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="2"	name="Exit"/>
+	<!--Downtown, San Fierro-->
+	<warp	id="CluckinBell_Out4"	to="CluckinBell_Int4"	posX="-1815.84"	posY="618.678"	posZ="35.2989"	rotation="180" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int4"	to="CluckinBell_Out4"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="3"	name="Exit"/>
+	<!--Ocean Flats, San Fierro-->
+	<warp	id="CluckinBell_Out5"	to="CluckinBell_Int5"	posX="-2671.53"	posY="258.344"	posZ="4.64932"	rotation="0"   interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int5"	to="CluckinBell_Out5"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="4"	name="Exit"/>
+	<!--Redsands East/The Emerald Isle, Las Venturas-->
+	<warp	id="CluckinBell_Out6"	to="CluckinBell_Int6"	posX="2102.69"	posY="2228.76"	posZ="11.0579"	rotation="270" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int6"	to="CluckinBell_Out6"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="5"	name="Exit"/>
+	<!--Old Venturas Strip, Las Venturas-->
+	<warp	id="CluckinBell_Out7"	to="CluckinBell_Int7"	posX="2393.18"	posY="2041.66"	posZ="10.8472"	rotation="0"   interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int7"	to="CluckinBell_Out7"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="6"	name="Exit"/>
+	<!--Pilgrim, Las Venturas-->
+	<warp	id="CluckinBell_Out8"	to="CluckinBell_Int8"	posX="2638.58"	posY="1671.18"	posZ="11.0231"	rotation="90"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int8"	to="CluckinBell_Out8"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="7"	name="Exit"/>
+	<!--Creek, Las Venturas-->
+	<warp	id="CluckinBell_Out9"	to="CluckinBell_Int9"	posX="2838.43"	posY="2407.26"	posZ="11.061"	rotation="180" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int9"	to="CluckinBell_Out9"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="8"	name="Exit"/>
+	<!--Angel Pine, Whetstone-->
+	<warp	id="CluckinBell_Out10"	to="CluckinBell_Int10"	posX="-2155.03"	posY="-2460.28"	posZ="30.8484"	rotation="235" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int10"	to="CluckinBell_Out10"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="9"	name="Exit"/>
+	<!--Tierra Robada-->
+	<warp	id="CluckinBell_Out11"	to="CluckinBell_Int11"	posX="-1213.71"	posY="1830.46"	posZ="41.9335"	rotation="315" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int11"	to="CluckinBell_Out11"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="10"	name="Exit"/>
+	<!--Bone County, Fort Carson-->
+	<warp	id="CluckinBell_Out12"	to="CluckinBell_Int12"	posX="172.727"	posY="1176.68"	posZ="14.75"	rotation="180" interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="CluckinBell_Int12"	to="CluckinBell_Out12"	posX="364.92"	posY="-11.61"	posZ="1001.85"	rotation="0"   interior="9"	dimension="11"	name="Exit"/>
+	
+<!--Well Stacked Pizza Co.-->
+	<!--Idlewood, Los Santos-->
+	<warp	id="Pizza_Out1"	to="Pizza_Int1"	posX="2105.46"	posY="-1806.47"	posZ="13.55"	rotation="90"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int1"	to="Pizza_Out1"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="0"	name="Exit"/>
+	<!--Financial, San Fierro-->
+	<warp	id="Pizza_Out2"	to="Pizza_Int2"	posX="-1808.70"	posY="945.92"	posZ="24.89"	rotation="225"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int2"	to="Pizza_Out2"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="1"	name="Exit"/>
+	<!--Esplande North, San Fierro (Pier 69)-->
+	<warp	id="Pizza_Out3"	to="Pizza_Int3"	posX="-1720.95"	posY="1359.69"	posZ="7.18"		rotation="90"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int3"	to="Pizza_Out3"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="2"	name="Exit"/>
+	<!--Redsands East/The Emerald Isle, Las Venturas-->
+	<warp	id="Pizza_Out4"	to="Pizza_Int4"	posX="2083.32"	posY="2224.69"	posZ="11.02"	rotation="180"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int4"	to="Pizza_Out4"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="3"	name="Exit"/>
+	<!--Roca Escalante, Las Venturas-->
+	<warp	id="Pizza_Out5"	to="Pizza_Int5"	posX="2351.80"	posY="2533.62"	posZ="10.82"	rotation="180"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int5"	to="Pizza_Out5"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="4"	name="Exit"/>
+	<!--Pilgrim/Starfish Casino, Las Venturas-->
+	<warp	id="Pizza_Out6"	to="Pizza_Int6"	posX="2638.78"	posY="1849.76"	posZ="11.02"	rotation="90"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int6"	to="Pizza_Out6"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="5"	name="Exit"/>
+	<!--Creek, Las Venturas-->
+	<warp	id="Pizza_Out7"	to="Pizza_Int7"	posX="2756.78"	posY="2477.33"	posZ="11.06"	rotation="135"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int7"	to="Pizza_Out7"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="6"	name="Exit"/>
+	<!--Palomino Creek, Red County-->
+	<warp	id="Pizza_Out8"	to="Pizza_Int8"	posX="2331.80"	posY="75.05"	posZ="26.62"	rotation="270"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int8"	to="Pizza_Out8"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="7"	name="Exit"/>
+	<!--Montgomery, Red County-->
+	<warp	id="Pizza_Out9"	to="Pizza_Int9"	posX="1367.53"	posY="248.38"	posZ="19.56"	rotation="90"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int9"	to="Pizza_Out9"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="8"	name="Exit"/>
+	<!--Blueberry, Red County-->
+	<warp	id="Pizza_Out10"	to="Pizza_Int10"	posX="203.41"	posY="-201.94"	posZ="1.57"		rotation="180"	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Pizza_Int10"	to="Pizza_Out10"	posX="372.35"	posY="-133.65"	posZ="1001.45"	rotation="0"	interior="5"	dimension="9"	name="Exit"/>
+	
+<!--DonutShops-->
+	<!--Jim's Sticky Ring, Market, Los Santos-->
+	<warp id="StickyRingDonutsdoor" to="StickyRingDonutsIN" posX="1038.21" posY="-1340.73" posZ="13.74" rotation="0" interior="0"	dimension="0" name="Enter"/>
+	<warp id="StickyRingDonutsIN" to="StickyRingDonutsdoor" posX="377.04" posY="-193.04" posZ="1000.90" rotation="0" interior="17"	dimension="0" name="Exit"/>
+	<!--Tuff Nut Donuts, Palisades, San Fierro-->
+	<warp id="TuffNutDonutsdoor" to="TuffNutDonutsIN" posX="-2767.87"	posY="788.84"	posZ="52.78"	rotation="270"	interior="0"	dimension="0" name="Enter"/>
+	<warp id="TuffNutDonutsIN" to="TuffNutDonutsdoor" posX="377.04"		posY="-193.04"	posZ="1000.90"	rotation="0"	interior="17"	dimension="1" name="Exit"/>
+	<!--King Ring, Fort Carson-->
+	<warp id="Dinerout" to="Dinerin" posX="-144.04"	posY="1224.59"	posZ="19.89"	rotation="180"	interior="0" dimension="0"	name="Enter"/>
+	<warp id="Dinerin" to="Dinerout" posX="460.75"	posY="-88.58"	posZ="999.55"	rotation="90"	interior="4" dimension="0"	name="Exit"/>
+	
+<!-- Ammunation-->
+	<!--Market, Los Santos-->
+	<warp	id="Ammunation_Out1"	to="Ammunation_Int1"	posX="1368.98"	posY="-1279.70"	posZ="13.54"	rotation="90"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int1"	to="Ammunation_Out1"	posX="315.72"	posY="-143.65"	posZ="999.6"	rotation="0"  	interior="7"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out12"	to="Ammunation_Int12"	posX="305.35"	posY="-141.84"	posZ="1004.06"	rotation="270"  interior="7"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int12"	to="Ammunation_Out12"	posX="304.58"	posY="-141.84"	posZ="1004.06"	rotation="90"  	interior="7"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out13"	to="Ammunation_Int13"	posX="299.95"	posY="-141.84"	posZ="1004.06"	rotation="270"  interior="7"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int13"	to="Ammunation_Out13"	posX="299.20"	posY="-141.84"	posZ="1004.06"	rotation="90"  	interior="7"	dimension="0"	name="Exit"/>
+	<!--
+	<warp	id="Ammunation_Out1"	to="Ammunation_Int1"	posX="1368.98"	posY="-1279.70"	posZ="13.54"	rotation="90"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int1"	to="Ammunation_Out1"	posX="285.48"	posY="-41.78"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out12"	to="Ammunation_Int12"	posX="286.15"	posY="-29.81"	posZ="1001.51"	rotation="180"  interior="1"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int12"	to="Ammunation_Out12"	posX="286.15"	posY="-29.11"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out13"	to="Ammunation_Int13"	posX="286.15"	posY="-24.42"	posZ="1001.51"	rotation="180"  interior="1"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int13"	to="Ammunation_Out13"	posX="286.15"	posY="-23.71"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	-->
+	<!--Willowfield, Los Santos-->
+	<warp	id="Ammunation_Out2"	to="Ammunation_Int2"	posX="2400.51"	posY="-1981.99"	posZ="13.54"	rotation="0"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int2"	to="Ammunation_Out2"	posX="285.48"	posY="-41.78"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out22"	to="Ammunation_Int22"	posX="286.15"	posY="-29.81"	posZ="1001.51"	rotation="180"  interior="1"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int22"	to="Ammunation_Out22"	posX="286.15"	posY="-29.11"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out23"	to="Ammunation_Int23"	posX="286.15"	posY="-24.42"	posZ="1001.51"	rotation="180"  interior="1"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int23"	to="Ammunation_Out23"	posX="286.15"	posY="-23.71"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="0"	name="Exit"/>
+	<!--
+	<warp	id="Ammunation_Out2"	to="Ammunation_Int2"	posX="2400.51"	posY="-1981.99"	posZ="13.54"	rotation="0"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int2"	to="Ammunation_Out2"	posX="296.87"	posY="-112.05"	posZ="1001.51"	rotation="0"  interior="6"	dimension="0"	name="Exit"/>
+	-->
+	<!--Ocean Flats, San Fierro-->
+	<warp	id="Ammunation_Out3"	to="Ammunation_Int3"	posX="-2625.84"	posY="208.24"	posZ="4.81"		rotation="0"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int3"	to="Ammunation_Out3"	posX="285.48"	posY="-41.78"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out32"	to="Ammunation_Int32"	posX="286.15"	posY="-29.81"	posZ="1001.51"	rotation="180"  interior="1"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int32"	to="Ammunation_Out32"	posX="286.15"	posY="-29.11"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out33"	to="Ammunation_Int33"	posX="286.15"	posY="-24.42"	posZ="1001.51"	rotation="180"  interior="1"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int33"	to="Ammunation_Out33"	posX="286.15"	posY="-23.71"	posZ="1001.51"	rotation="0"  	interior="1"	dimension="1"	name="Exit"/>
+	<!--Old Venturas Strip, Las Venturas-->
+	<warp	id="Ammunation_Out4"	to="Ammunation_Int4"	posX="2539.54"	posY="2083.98"	posZ="10.82"	rotation="90" 	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int4"	to="Ammunation_Out4"	posX="285.77"	posY="-86.71"	posZ="1001.52"	rotation="0"  	interior="4"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out42"	to="Ammunation_Int42"	posX="301.73"	posY="-76.54"	posZ="1001.51"	rotation="180"  interior="4"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int42"	to="Ammunation_Out42"	posX="301.73"	posY="-75.69"	posZ="1001.51"	rotation="0"  	interior="4"	dimension="0"	name="Exit"/>
+	<warp	id="Ammunation_Out43"	to="Ammunation_Int43"	posX="303.26"	posY="-57.67"	posZ="1001.51"	rotation="90" 	interior="4"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int43"	to="Ammunation_Out43"	posX="304.04"	posY="-57.67"	posZ="1001.51"	rotation="270"  interior="4"	dimension="0"	name="Exit"/>
+	<!--Come-A-Lot, Las Venturas-->
+	<warp	id="Ammunation_Out5"	to="Ammunation_Int5"	posX="2159.54"	posY="943.20"	posZ="10.82"	rotation="90"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int5"	to="Ammunation_Out5"	posX="285.77"	posY="-86.71"	posZ="1001.52"	rotation="0"  	interior="4"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out52"	to="Ammunation_Int52"	posX="301.73"	posY="-76.54"	posZ="1001.51"	rotation="180"  interior="4"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int52"	to="Ammunation_Out52"	posX="301.73"	posY="-75.69"	posZ="1001.51"	rotation="0"  	interior="4"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out53"	to="Ammunation_Int53"	posX="303.26"	posY="-57.67"	posZ="1001.51"	rotation="90"  	interior="4"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int53"	to="Ammunation_Out53"	posX="304.04"	posY="-57.67"	posZ="1001.51"	rotation="270"  interior="4"	dimension="1"	name="Exit"/>
+	<!--Blueberry, Red County-->
+	<warp	id="Ammunation_Out6"	to="Ammunation_Int6"	posX="243.28"	posY="-178.34"	posZ="1.58"		rotation="90"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int6"	to="Ammunation_Out6"	posX="315.72"	posY="-143.65"	posZ="999.6"	rotation="0"  	interior="7"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out62"	to="Ammunation_Int62"	posX="305.35"	posY="-141.84"	posZ="1004.06"	rotation="270"  interior="7"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int62"	to="Ammunation_Out62"	posX="304.58"	posY="-141.84"	posZ="1004.06"	rotation="90"  	interior="7"	dimension="1"	name="Exit"/>
+	<warp	id="Ammunation_Out63"	to="Ammunation_Int63"	posX="299.95"	posY="-141.84"	posZ="1004.06"	rotation="270"  interior="7"	dimension="1"	name="Enter"/>
+	<warp	id="Ammunation_Int63"	to="Ammunation_Out63"	posX="299.20"	posY="-141.84"	posZ="1004.06"	rotation="90"  	interior="7"	dimension="1"	name="Exit"/>
+	<!--
+	<warp	id="Ammunation_Out6"	to="Ammunation_Int6"	posX="243.28"	posY="-178.34"	posZ="1.58"		rotation="90"  	interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int6"	to="Ammunation_Out6"	posX="285.77"	posY="-86.71"	posZ="1001.52"	rotation="0"  	interior="4"	dimension="2"	name="Exit"/>
+	<warp	id="Ammunation_Out62"	to="Ammunation_Int62"	posX="301.73"	posY="-76.54"	posZ="1001.51"	rotation="180"  interior="4"	dimension="2"	name="Enter"/>
+	<warp	id="Ammunation_Int62"	to="Ammunation_Out62"	posX="301.73"	posY="-75.69"	posZ="1001.51"	rotation="0"  	interior="4"	dimension="2"	name="Exit"/>
+	<warp	id="Ammunation_Out63"	to="Ammunation_Int63"	posX="303.26"	posY="-57.67"	posZ="1001.51"	rotation="90"  	interior="4"	dimension="2"	name="Enter"/>
+	<warp	id="Ammunation_Int63"	to="Ammunation_Out63"	posX="304.04"	posY="-57.67"	posZ="1001.51"	rotation="270"  interior="4"	dimension="2"	name="Exit"/>
+	-->
+	<!--Palomino Creek, Red County-->
+	<warp	id="Ammunation_Out7"	to="Ammunation_Int7"	posX="2333.08"	posY="61.59"	posZ="26.70"	rotation="270"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int7"	to="Ammunation_Out7"	posX="285.77"	posY="-86.71"	posZ="1001.52"	rotation="0"  	interior="4"	dimension="3"	name="Exit"/>
+	<warp	id="Ammunation_Out72"	to="Ammunation_Int72"	posX="301.73"	posY="-76.54"	posZ="1001.51"	rotation="180"  interior="4"	dimension="3"	name="Enter"/>
+	<warp	id="Ammunation_Int72"	to="Ammunation_Out72"	posX="301.73"	posY="-75.69"	posZ="1001.51"	rotation="0"  	interior="4"	dimension="3"	name="Exit"/>
+	<warp	id="Ammunation_Out73"	to="Ammunation_Int73"	posX="303.26"	posY="-57.67"	posZ="1001.51"	rotation="90"  	interior="4"	dimension="3"	name="Enter"/>
+	<warp	id="Ammunation_Int73"	to="Ammunation_Out73"	posX="304.04"	posY="-57.67"	posZ="1001.51"	rotation="270"  interior="4"	dimension="3"	name="Exit"/>
+	<!--Angel Pine, Whetstone-->
+	<warp	id="Ammunation_Out8"	to="Ammunation_Int8"	posX="-2093.64"	posY="-2464.95"	posZ="30.62"	rotation="315"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int8"	to="Ammunation_Out8"	posX="296.84"	posY="-112.06"	posZ="1001.51"	rotation="0"  	interior="6"	dimension="1"	name="Exit"/>
+	<!--Tierra Robada, El Quebrados-->
+	<warp	id="Ammunation_Out9"	to="Ammunation_Int9"	posX="-1508.90"	posY="2610.69"	posZ="55.83"	rotation="180"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int9"	to="Ammunation_Out9"	posX="296.84"	posY="-112.06"	posZ="1001.51"	rotation="0"  	interior="6"	dimension="2"	name="Exit"/>
+	<!--Fort Carson, Bone County-->
+	<warp	id="Ammunation_Out10"	to="Ammunation_Int10"	posX="-316.14"	posY="829.85"	posZ="14.24"	rotation="270"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int10"	to="Ammunation_Out10"	posX="296.84"	posY="-112.06"	posZ="1001.51"	rotation="0"  	interior="6"	dimension="3"	name="Exit"/>
+	<!--West Las Venturas, Bone County-->
+	<warp	id="Ammunation_Out11"	to="Ammunation_Int11"	posX="776.72"	posY="1871.44"	posZ="4.90"		rotation="270"  interior="0"	dimension="0"	name="Enter"/>
+	<warp	id="Ammunation_Int11"	to="Ammunation_Out11"	posX="296.84"	posY="-112.06"	posZ="1001.51"	rotation="0"  	interior="6"	dimension="4"	name="Exit"/>
+</map>

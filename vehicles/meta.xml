@@ -1,0 +1,7 @@
+<meta>
+	<info author="Abel" name="vehicles" type="script" version="1.2.0"/>
+	<script src="vehicles_server.lua" type="server"/>
+	<script src="vehicles_client.lua" type="client"/>
+	
+	<!-- <map src="vehicles.xml"/> -->
+</meta>

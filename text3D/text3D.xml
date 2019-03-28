@@ -1,0 +1,15 @@
+<map>
+	<text3D posX="2447.68" posY="2376.26" posZ="16" interior="0" dimension="0" text="Syndicate Savings and Loan" r="200" g="200" b="200" size="20" font="beckett"/>
+	<text3D posX="2447.68" posY="2376.26" posZ="15.5" interior="0" dimension="0" text="Profiting from your stupidity since 1992" r="200" g="200" b="200" size="10" font="sans"/>
+	
+	<text3D posX="1788.25" posY="-1298.60" posZ="16" interior="0" dimension="0" text="Syndicate Savings and Loan" r="200" g="200" b="200" size="20" font="beckett"/>
+	<text3D posX="1788.25" posY="-1298.60" posZ="15.5" interior="0" dimension="0" text="Profiting from your stupidity since 1992" r="200" g="200" b="200" size="10" font="sans"/>
+	
+	<text3D posX="-1749.32" posY="868.00" posZ="27.65" interior="0" dimension="0" text="Syndicate Savings and Loan" r="200" g="200" b="200" size="20" font="beckett"/>
+	<text3D posX="-1749.32" posY="868.00" posZ="27.15" interior="0" dimension="0" text="Profiting from your stupidity since 1992" r="200" g="200" b="200" size="10" font="sans"/>
+	
+	<text3D posX="1555.00" posY="-1675.62" posZ="21.55" interior="0" dimension="0" text="LSPD" r="16" g="48" b="240" size="24" font="bankgothic"/>
+	<text3D posX="-1605.54" posY="712.50" posZ="19.00" interior="0" dimension="0" text="San Fierro Police Department" r="16" g="48" b="240" size="20" font="bankgothic"/>
+	
+	<text3D posX="1654.15" posY="-1654.77" posZ="25.5" interior="0" dimension="0" text="Spectre" r="150" g="150" b="150" size="14" font="bankgothic"/>
+</map>

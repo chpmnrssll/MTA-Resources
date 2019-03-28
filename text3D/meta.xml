@@ -1,0 +1,11 @@
+<meta>
+	<info author="Abel" version="1.0" type="script"/>
+	<script src="text3D_server.lua" type="server"/>
+	<script src="text3D_client.lua" type="client"/>
+	<map src="text3D.xml" />
+	
+	<export function="createText3D" type="server"/>
+	<export function="destroyText3D" type="server"/>
+	<export function="createText3D" type="client"/>
+	<export function="destroyText3D" type="client"/>
+</meta>

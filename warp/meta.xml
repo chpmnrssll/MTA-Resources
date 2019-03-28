@@ -1,0 +1,9 @@
+<meta>
+	<info author="Abel" description="warp" name="warp" type="script" version="1.0" edf:definition="warp.edf"/>
+	<script src="warp_server.lua" type="server"/>
+	<script src="warp_client.lua" type="client"/>
+	<map src="warp.xml"/>
+	
+	<!--<export function="createWarp" type="server"/>-->
+	<!--function createWarp(id, to, posX, posY, posZ, rotation, interior, dimension, hidden)-->
+</meta>
