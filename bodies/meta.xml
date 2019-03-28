@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" description="Leaves dead player bodies around" name="bodies" type="script" version="1.0"/>
+	<script src="bodies_server.lua" type="server"/>
+</meta>

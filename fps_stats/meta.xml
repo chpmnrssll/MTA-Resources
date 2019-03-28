@@ -1,0 +1,40 @@
+<meta>
+	<info name="FPS Stats" longname="FPS Stats" description="Shows the current Frames Per Second and some stats" author="driver2" type="script" version="1.0.1" />
+
+	<script src="defaultSettings.lua" type="client" />
+	<script src="Settings.lua" type="client" />
+	<script src="util.lua" type="client" />
+	<script src="Xml.lua" type="client" />
+	<script src="client.lua" type="client" />
+
+	<script src="server.lua" type="server" />
+
+	<config src="help.xml" type="client" />
+
+	<settings>
+		<!-- *****************************************************
+			 All these settings are adjustable in the Admin Panel:
+				1. start admin
+				2. press 'p'
+				3. select Resources tab
+				4. double click on 'fps_stats'
+			 ***************************************************** -->
+
+
+		<setting name="*addFpsToScoreboard" value="true"
+					friendlyname="Add current FPS"
+					accept="false,true"
+					group="Scoreboard"
+					desc="Add current FPS to scoreboard. This setting will only have an effect when this or the scoreboard resource is restarted."
+					/>
+
+		<setting name="*addAvgFpsToScoreboard" value="true"
+					friendlyname="Add average FPS"
+					accept="false,true"
+					group="Scoreboard"
+					desc="Add average FPS to scoreboard. This setting will only have an effect when this or the scoreboard resource is restarted."
+					/>
+
+	</settings>
+
+</meta>

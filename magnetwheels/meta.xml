@@ -1,0 +1,9 @@
+<meta>
+
+	<info author="eXo|dragon" description="Makes the wheels of vehicles magnetic" type="script" version="0.1" />
+
+    <config src="help.xml" type="client"/>
+
+	<script src="magnetwheels_client.lua" type="client"/>
+	
+</meta>

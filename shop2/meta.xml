@@ -1,0 +1,6 @@
+<meta>
+	<info author="Abel" description="shop" name="shop" type="script" version="1.0"/>
+	<script src="shop_server.lua" type="server"/>
+	<script src="shop_client.lua" type="client"/>
+	<map src="shop.xml"/>
+</meta>

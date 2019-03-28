@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" type="script" version="1.0.0"/>
+	<script src="motionBlur_client.lua" type="client"/>
+</meta>

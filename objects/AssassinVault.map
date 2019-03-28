@@ -1,0 +1,41 @@
+<map edf:definitions="editor_main">
+    <object id="object (CJ_WS_DOOR) (2)" doublesided="false" model="1566" interior="0" dimension="0" posX="1509.5" posY="-1462.6400146484" posZ="10" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_WS_DOOR) (2)" doublesided="false" model="1566" interior="0" dimension="0" posX="1509.5" posY="-1465.8000488281" posZ="10" rotX="0" rotY="0" rotZ="90"></object>
+	<!--
+    <object id="object (kmb_shutter) (1)" doublesided="false" model="3055" interior="0" dimension="0" posX="1539.6999511719" posY="-1451.1999511719" posZ="14.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_shutter) (2)" doublesided="false" model="3055" interior="0" dimension="0" posX="1530.1999511719" posY="-1451.1999511719" posZ="14.60000038147" rotX="0" rotY="0" rotZ="0"></object>
+	-->
+    <object id="object (mafCasLoadbay01) (1)" doublesided="false" model="14577" interior="1" dimension="1" posX="1492.099609375" posY="-1462.19921875" posZ="86.800003051758" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_WS_DOOR) (2)" doublesided="false" model="1566" interior="1" dimension="1" posX="1546.7998046875" posY="-1462.7998046875" posZ="83.199996948242" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (vault_door) (1)" doublesided="false" model="14576" interior="1" dimension="1" posX="1479.1999511719" posY="-1476.8000488281" posZ="75.5" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_WS_DOOR) (3)" doublesided="false" model="1566" interior="1" dimension="1" posX="1546.8000488281" posY="-1465.9000244141" posZ="83.199996948242" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (vault_door) (1)" doublesided="true" model="14576" interior="1" dimension="1" posX="1464.5" posY="-1502.5" posZ="75.5" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (mafCasLoadbay01) (1)" doublesided="true" model="14577" interior="1" dimension="1" posX="1507.599609375" posY="-1527.19921875" posZ="86.800003051758" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (ab_mafsuiteDoor) (1)" doublesided="false" model="14638" interior="1" dimension="1" posX="1528.4000244141" posY="-1481.3000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (ab_mafsuiteDoor) (3)" doublesided="false" model="14638" interior="1" dimension="1" posX="1456.4000244141" posY="-1482.4000244141" posZ="69.300003051758" rotX="0" rotY="0" rotZ="269.99996948242"></object>
+    <object id="object (MED_OFFICE_DESK_2) (1)" doublesided="false" model="2166" interior="1" dimension="1" posX="1524" posY="-1458.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE_DESK_1) (1)" doublesided="false" model="2165" interior="1" dimension="1" posX="1526.3000488281" posY="-1457.9000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE_DESK_2) (3)" doublesided="false" model="2166" interior="1" dimension="1" posX="1525" posY="-1469.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (MED_OFFICE_UNIT_4) (1)" doublesided="false" model="2161" interior="1" dimension="1" posX="1523.5999755859" posY="-1464" posZ="79.900001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (MED_OFFICE_UNIT_1) (1)" doublesided="false" model="2162" interior="1" dimension="1" posX="1527.5999755859" posY="-1470.3000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (MED_OFFICE_UNIT_2) (1)" doublesided="false" model="2163" interior="1" dimension="1" posX="1523.5999755859" posY="-1461.4000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (MED_OFFICE_UNIT_5) (1)" doublesided="false" model="2164" interior="1" dimension="1" posX="1529.0999755859" posY="-1463.5999755859" posZ="79.900001525879" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (MED_OFFICE_UNIT_2) (2)" doublesided="false" model="2163" interior="1" dimension="1" posX="1530.5" posY="-1470.3000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (MED_OFFICE_UNIT_7) (1)" doublesided="false" model="2167" interior="1" dimension="1" posX="1530.0999755859" posY="-1465.0999755859" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE_DESK_1) (2)" doublesided="false" model="2165" interior="1" dimension="1" posX="1524.0999755859" posY="-1466.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_couch02) (1)" doublesided="false" model="1703" interior="1" dimension="1" posX="1532.9000244141" posY="-1457.9000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_couch02) (2)" doublesided="false" model="1703" interior="1" dimension="1" posX="1535.8000488281" posY="-1458.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kb_couch02) (3)" doublesided="false" model="1703" interior="1" dimension="1" posX="1535.8000488281" posY="-1466.9000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kb_couch02) (4)" doublesided="false" model="1703" interior="1" dimension="1" posX="1534.9000244141" posY="-1469.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kb_couch02) (5)" doublesided="false" model="1703" interior="1" dimension="1" posX="1529.9000244141" posY="-1457.9000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Plant_Pot_5) (1)" doublesided="false" model="2241" interior="1" dimension="1" posX="1535.6999511719" posY="-1457.9000244141" posZ="80.400001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (Plant_Pot_5) (2)" doublesided="false" model="2241" interior="1" dimension="1" posX="1535.6999511719" posY="-1469.8000488281" posZ="80.400001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_SPRUNK1) (1)" doublesided="false" model="1775" interior="1" dimension="1" posX="1541" posY="-1471.6999511719" posZ="81" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_CANDYVENDOR) (1)" doublesided="false" model="1776" interior="1" dimension="1" posX="1534.9000244141" posY="-1482.5999755859" posZ="81" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (MED_OFFICE_UNIT_2) (3)" doublesided="false" model="2163" interior="1" dimension="1" posX="1531.0999755859" posY="-1464.4000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (CJ_WATERCOOLER2) (1)" doublesided="false" model="1808" interior="1" dimension="1" posX="1530.0999755859" posY="-1462.8000488281" posZ="79.900001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (SWANK_TV_1) (1)" doublesided="false" model="1792" interior="1" dimension="1" posX="1530.6999511719" posY="-1464.0999755859" posZ="81.599998474121" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_swivelchair2) (1)" doublesided="false" model="1715" interior="1" dimension="1" posX="1525.6999511719" posY="-1468.9000244141" posZ="79.900001525879" rotX="0" rotY="0" rotZ="217.99992370605"></object>
+    <object id="object (kb_swivelchair2) (2)" doublesided="false" model="1715" interior="1" dimension="1" posX="1525.1999511719" posY="-1459.1999511719" posZ="79.900001525879" rotX="0" rotY="0" rotZ="58.747772216797"></object>
+    <object id="object (mafCasLoadbay01) (1)" doublesided="true" model="14577" interior="1" dimension="1" posX="1557.1999511719" posY="-1408.0999755859" posZ="86.800003051758" rotX="0" rotY="0" rotZ="270"></object>
+</map>

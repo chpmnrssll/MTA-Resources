@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" version="1.0.0" type="script"/>
+	<script src="fart_client.lua" type="client"/>
+	<file src="fart.mp3"/>
+</meta>

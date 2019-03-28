@@ -1,0 +1,6 @@
+<meta>
+	<info author="Abel" name="streetRace" type="scirpt"/>
+	<script src="streetRace_server.lua" type="server"/>
+	<!--<map src="wuZiMu.xml"/>-->
+	<map src="grottiRace.xml"/>
+</meta>

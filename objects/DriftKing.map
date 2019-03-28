@@ -1,0 +1,30 @@
+<map edf:definitions="editor_main">
+    <object id="object (burbdoor2) (1)" doublesided="false" model="13188" interior="0" dimension="0" posX="-2746.2998046875" posY="167.69921875" posZ="7.4000000953674" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (cr1_door) (2)" doublesided="false" model="3029" interior="0" dimension="0" posX="-1790.8000488281" posY="1219.5999755859" posZ="24.10000038147" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (lxr_motel_doorsim) (3)" doublesided="false" model="2987" interior="0" dimension="0" posX="-1800" posY="1201.1999511719" posZ="25.39999961853" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (vegasNbank1ug) (1)" doublesided="false" model="7245" interior="0" dimension="0" posX="-2754" posY="207.39999389648" posZ="-13" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (vegasNbank1ug) (2)" doublesided="true" model="7245" interior="0" dimension="0" posX="-2704.6999511719" posY="207.5" posZ="-13" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (hubprops6_SFSe) (1)" doublesided="false" model="11391" interior="0" dimension="0" posX="-2743.7998046875" posY="192.69921875" posZ="-15.199999809265" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (hubprops6_SFSe) (2)" doublesided="false" model="11391" interior="0" dimension="0" posX="-2791.2998046875" posY="225.2998046875" posZ="-15.199999809265" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (int_kbsgarage2) (1)" doublesided="false" model="14826" interior="0" dimension="0" posX="-2786" posY="228.80000305176" posZ="-15.800000190735" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (burbdoor2) (1)" doublesided="false" model="13188" interior="0" dimension="0" posX="-2747.69921875" posY="229.69921875" posZ="-15.199999809265" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (driveschl_main) (1)" doublesided="false" model="14530" interior="1" dimension="1" posX="-1802.69921875" posY="1201.8994140625" posZ="43" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (driveschl_main) (1)" doublesided="true" model="14530" interior="1" dimension="1" posX="-1795.099609375" posY="1201.8994140625" posZ="43" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (driveschl_main) (1)" doublesided="true" model="14530" interior="1" dimension="1" posX="-1793.1999511719" posY="1215.1999511719" posZ="43" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (officedesk1) (1)" doublesided="false" model="2008" interior="1" dimension="1" posX="-1806.0999755859" posY="1198.9000244141" posZ="41.200000762939" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (est_chair1) (1)" doublesided="false" model="1721" interior="1" dimension="1" posX="-1805" posY="1203.6999511719" posZ="41.200000762939" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (est_chair1) (2)" doublesided="false" model="1721" interior="1" dimension="1" posX="-1805.8000488281" posY="1203.6999511719" posZ="41.200000762939" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (vendmach) (1)" doublesided="false" model="1209" interior="1" dimension="1" posX="-1810" posY="1200.5" posZ="41.200000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (wheel_gn5) (1)" doublesided="false" model="1098" interior="1" dimension="1" posX="-1809.8000488281" posY="1197.5" posZ="41.700000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (swivelchair_B) (1)" doublesided="false" model="1663" interior="1" dimension="1" posX="-1807.3000488281" posY="1197.6999511719" posZ="41.700000762939" rotX="0" rotY="0" rotZ="135.75"></object>
+    <object id="object (wheel_gn5) (2)" doublesided="false" model="1098" interior="1" dimension="1" posX="-1809.8000488281" posY="1197.8000488281" posZ="41.700000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (wheel_gn5) (3)" doublesided="false" model="1098" interior="1" dimension="1" posX="-1809.8000488281" posY="1198.0999755859" posZ="41.700000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (wheel_gn5) (4)" doublesided="false" model="1098" interior="1" dimension="1" posX="-1809.8000488281" posY="1198.4000244141" posZ="41.700000762939" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (est_chair1) (3)" doublesided="false" model="1721" interior="1" dimension="1" posX="-1806.5999755859" posY="1203.6999511719" posZ="41.200000762939" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (CJ_CANDYVENDOR) (1)" doublesided="false" model="1776" interior="1" dimension="1" posX="-1809.9000244141" posY="1202.5999755859" posZ="42.299999237061" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (est_chair1) (4)" doublesided="false" model="1721" interior="1" dimension="1" posX="-1807.4000244141" posY="1203.6999511719" posZ="41.200000762939" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (est_chair1) (5)" doublesided="false" model="1721" interior="1" dimension="1" posX="-1808.1999511719" posY="1203.6999511719" posZ="41.200000762939" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (cr1_door) (1)" doublesided="false" model="3029" interior="1" dimension="1" posX="-1799.8000488281" posY="1212.8000488281" posZ="41.200000762939" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (lxr_motel_doorsim) (1)" doublesided="false" model="2987" interior="1" dimension="1" posX="-1803.5" posY="1197.1999511719" posZ="42.700000762939" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (lxr_motel_doorsim) (2)" doublesided="false" model="2987" interior="1" dimension="1" posX="-1803.5" posY="1197.1999511719" posZ="40.299999237061" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+</map>

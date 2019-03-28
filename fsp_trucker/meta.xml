@@ -1,0 +1,9 @@
+<meta>
+	<info author="50p" version="1.2" type="script" name="Trucker Mini-Missions" />
+	<script src="s_main.lua" type="server" />
+	<map src="truckermissions.map" />
+	<script src="utils/client_anim.lua" type="client" />
+	<script src="utils/textlib.lua" type="client" />
+	<script src="utils/textlib_anim.lua" type="client" />
+	<script src="messages.lua" type="client" />
+</meta>

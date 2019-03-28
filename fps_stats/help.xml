@@ -1,0 +1,28 @@
+<help title="FPS Stats">
+The FPS Stats resource counts the Frames per Second (FPS) and displays them on the screen. It also shows the last x seconds in a graph.
+
+Commands
+--------------------------
+/fps_stats   Opens the FPS Stats settings (which can be used to turn the FPS Stats display on/off)
+/fps_stats_full   Toggles (opens/closes) the fullscreen FPS Graph with all the data from the beginning of recording
+/fps_stats_reset   Resets all recorded data (avg, min, max, graph)
+
+(Commands can either be entered in the chatbox (T) or the console (F8). If entered in the console, the slash (/) must be omitted.)
+
+Numeric Display
+--------------------------
+- Current: The FPS in the last 500 milliseconds
+- Max: The highest FPS since the beginning of recording
+- Min: The lowest FPS since the beginning of recording
+- Avg: The average FPS since the beginning of recording
+
+Graph Display
+--------------------------
+The Graph shows the FPS by drawing bars of different heights. The heighest possible bar is the maximum FPS value (as shown by the 'Max' value). There are also two sperate lines displayed which denote the minimum FPS value and the average FPS value (also as shown by their respective numeric values). The graph is updated every second.
+
+The fullscreen graph shows all the data from the beginning of recording at once. On the lower left corner of the fullscreen graph, the total time recorded is displayed.
+
+Settings
+--------------------------
+In the settings dialog (opened by the command as written above) many aspects of the FPS Stats resource can be customized and saved for later use (settings are saved in a local XML-File, so they will remain until it is deleted or overwritten).
+</help>

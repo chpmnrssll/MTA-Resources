@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <object id="object (ab_mafiaSuite01zzz) (1)" doublesided="false" model="14581" interior="1" dimension="0" posX="2298.3701171875" posY="1647.5300292969" posZ="1023.4199829102" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (MED_OFFICE8_DESK_1) (1)" doublesided="false" model="2205" interior="1" dimension="0" posX="2301.0434570313" posY="1651.6346435547" posZ="1021.0718994141" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (kmb_ot) (1)" doublesided="false" model="2954" interior="1" dimension="0" posX="2192.5302734375" posY="1573.025390625" posZ="1007.359375" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (kmb_ot) (2)" doublesided="false" model="2954" interior="1" dimension="0" posX="2293.7966308594" posY="1640.4410400391" posZ="1021.082824707" rotX="0" rotY="0" rotZ="270" />
+</map>

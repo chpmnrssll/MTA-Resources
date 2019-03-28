@@ -1,0 +1,48 @@
+<map>
+	<oil_destinations>
+		<oil_destination posX="2124.2265625" posY="945.5244140625" posZ="10.81298828125" />
+		<oil_destination posX="2634.869140625" posY="1088.6689453125" posZ="10.8203125" />
+		<oil_destination posX="2202.314453125" posY="2472.9921875" posZ="10.8203125" />
+		<oil_destination posX="2124.728515625" posY="2745.4501953125" posZ="10.8203125" />
+		<oil_destination posX="634.189453125" posY="1712.6328125" posZ="6.9921875" />
+		<oil_destination posX="1583.474609375" posY="2199.0693359375" posZ="10.820312" />
+		<oil_destination posX="-1484.5625" posY="1862.875" posZ="32.6362304687" />
+		<oil_destination posX="-1310.6748046875" posY="2689.103515625" posZ="50.0625" />
+		<oil_destination posX="-740.916015625" posY="2740.7578125" posZ="46.954212188721" />
+	</oil_destinations>
+	<box_destinations>
+		<box_destination posX="-859.8115234375" posY="1553.44140625" posZ="23.740196228027" />
+		<box_destination posX="-1206.6318359375" posY="1823.3720703125" posZ="41.71875" />
+		<box_destination posX="-1928.9638671875" posY="2385.58203125" posZ="49.4921875" />
+		<box_destination posX="-2431.1435546875" posY="2294.92578125" posZ="4.984375" />
+		<box_destination posX="-536.306640625" posY="2594.0947265625" posZ="53.415424346924" />
+		<box_destination posX="2790.03125" posY="2592.6337890625" posZ="10.8203125" />
+		<box_destination posX="2844.091796875" posY="910.5126953125" posZ="10.75" /><!---->
+		<box_destination posX="1005.98046875" posY="1114.8828125" posZ="10.8203125" />
+		<!--<box_destination posX="1395.818359375" posY="1151 10.8203125" posZ="180.82948303223" />	-->	
+		<box_destination posX="-1472.771484375" posY="2648.4072265625" posZ="55.8359375" />
+		<box_destination posX="-299.1220703125" posY="2664.603515625" posZ="62.712745666504" />
+		<box_destination posX="2484.6064453125" posY="2773.603515625" posZ="10.76736450195" />
+		<box_destination posX="388.76464843" posY="2585.84570312" posZ="16.4499359130" />
+		<box_destination posX="-342.27050781" posY="1527.90722656" posZ="75.356956481934" />
+		<box_destination posX="-1799.393554687" posY="2055.496093" posZ="8.9979381561" />
+		<box_destination posX="584.995117187" posY="1215.079101562" posZ="11.7112674713" />
+		<box_destination posX="-2286.047851562" posY="2280.134765" posZ="4.96816635131" />
+		<box_destination posX="1039.3242187" posY="2126.098632812" posZ="10.820312" />
+	</box_destinations>
+	
+	<!-- oil -->
+	<vehicle model="584" posX="282.7001953125" posY="1344.314453125" posZ="11.60249710083" />
+	<vehicle model="584" posX="275.1701953125" posY="1344.314453125" posZ="11.60249710083" />
+	<vehicle model="584" posX="267.4001953125" posY="1344.314453125" posZ="11.60249710083" />
+	<vehicle model="584" posX="259.6025390625" posY="1344.314453125" posZ="11.60249710083" />
+	<!-- box -->
+	<vehicle model="435" posX="633.4755859375" posY="1254.8916015625" posZ="12.684497833252" rotZ="209.4165" />
+	<vehicle model="435" posX="641.4755859375" posY="1258.1142015625" posZ="12.684497833252" rotZ="209.4165" />
+	<vehicle model="435" posX="649.4755859375" posY="1262.337015625" posZ="12.684497833252" rotZ="209.4165" />
+	<vehicle model="435" posX="657.8916015625" posY="1266.8916015625" posZ="12.684497833252" rotZ="209.4165" />
+	<!-- coal 
+	<vehicle model="450" posX="341.322265625" posY="849.9990234375" posZ="21.278697967529" rotZ="330.000" />
+	<vehicle model="450" posX="390.091796875" posY="894.4208984375" posZ="21.619688034058" rotZ="80.00" />
+	<vehicle model="450" posX="335.9541015625" posY="894.2529296875" posZ="21.424991607666" rotZ="300.6378" />-->
+</map>

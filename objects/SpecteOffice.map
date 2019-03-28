@@ -1,0 +1,35 @@
+<map edf:definitions="editor_main">
+    <object id="object (paperchase02) (1)" doublesided="true" model="14595" interior="5" dimension="5" posX="1840.1846923828" posY="-1777.1069335938" posZ="68.795677185059" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (paperchase03) (1)" doublesided="false" model="14594" interior="5" dimension="5" posX="1789.1187744141" posY="-1757.1348876953" posZ="64.632949829102" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (paperchase03) (2)" doublesided="false" model="14594" interior="5" dimension="5" posX="1789.2445068359" posY="-1796.4842529297" posZ="64.682952880859" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (MED_OFFICE8_CABINET) (2)" doublesided="false" model="2204" interior="5" dimension="5" posX="1794.6055908203" posY="-1782.5874023438" posZ="64.690765380859" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (MED_OFFICE8_DESK_1) (8)" doublesided="false" model="2205" interior="5" dimension="5" posX="1786.4812011719" posY="-1776.5174560547" posZ="64.698577880859" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (MED_OFFICE8_DESK_1) (9)" doublesided="false" model="2205" interior="5" dimension="5" posX="1787.4323730469" posY="-1774.1921386719" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mrk_seating1b) (2)" doublesided="false" model="1724" interior="5" dimension="5" posX="1801.5926513672" posY="-1772.7618408203" posZ="64.698577880859" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (kb_swivelchair1) (2)" doublesided="false" model="1714" interior="5" dimension="5" posX="1790.2507324219" posY="-1777.2760009766" posZ="64.698577880859" rotX="0" rotY="0" rotZ="230" />
+    <object id="object (propcollecttable) (1)" doublesided="false" model="1670" interior="5" dimension="5" posX="1789.0284423828" posY="-1779.6909179688" posZ="65.635040283203" rotX="0" rotY="0" rotZ="8" />
+    <object id="object (KEV_SAFE) (1)" doublesided="false" model="2332" interior="5" dimension="5" posX="1801.7032470703" posY="-1780.5535888672" posZ="65.161460876465" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (SWANK_HI_FI_2) (1)" doublesided="false" model="2225" interior="5" dimension="5" posX="1793.6573486328" posY="-1770.9184570313" posZ="64.674133300781" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (SWANK_HI_FI_3) (1)" doublesided="false" model="2227" interior="5" dimension="5" posX="1793.2182617188" posY="-1770.8684082031" posZ="64.729377746582" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (SWANK_HI_FI_3) (2)" doublesided="false" model="2227" interior="5" dimension="5" posX="1794.3438720703" posY="-1770.8681640625" posZ="64.729377746582" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (SWANK_SPEAKER_4) (1)" doublesided="false" model="2233" interior="5" dimension="5" posX="1793.0104980469" posY="-1770.8125" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (SWANK_SPEAKER_4) (2)" doublesided="false" model="2233" interior="5" dimension="5" posX="1794.7592773438" posY="-1770.8125" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (MED_OFFICE8_DESK_1) (10)" doublesided="false" model="2205" interior="5" dimension="5" posX="1789.7578125" posY="-1774.19140625" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (MED_OFFICE8_DESK_1) (11)" doublesided="false" model="2205" interior="5" dimension="5" posX="1786.48046875" posY="-1778.8426513672" posZ="64.698577880859" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (mrk_seating1) (1)" doublesided="false" model="1723" interior="5" dimension="5" posX="1798.3203125" posY="-1782.0777587891" posZ="64.698577880859" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (PC_1) (1)" doublesided="false" model="2190" interior="5" dimension="5" posX="1786.21484375" posY="-1777.916015625" posZ="65.610038757324" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (mobile1993a) (1)" doublesided="false" model="2967" interior="5" dimension="5" posX="1786.5390625" posY="-1775.5546875" posZ="65.635040283203" rotX="0" rotY="0" rotZ="47.999267578125" />
+    <object id="object (Gen_doorEXT15) (1)" doublesided="false" model="1536" interior="5" dimension="5" posX="1776.19140625" posY="-1778.4033203125" posZ="64.623573303223" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (Gen_doorEXT15) (2)" doublesided="false" model="1536" interior="5" dimension="5" posX="1776.140625" posY="-1775.4013671875" posZ="64.623573303223" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (MED_OFFICE8_DESK_1) (12)" doublesided="false" model="2205" interior="5" dimension="5" posX="1788.8056640625" posY="-1779.7900390625" posZ="64.698577880859" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (MED_OFFICE8_DESK_1) (13)" doublesided="false" model="2205" interior="5" dimension="5" posX="1791.130859375" posY="-1779.7900390625" posZ="64.698577880859" rotX="0" rotY="0" rotZ="179.99450683594" />
+    <object id="object (mrk_seating1) (1)" doublesided="false" model="1723" interior="5" dimension="5" posX="1776.7947998047" posY="-1774.4512939453" posZ="64.698577880859" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (CJ_MLIGHT14) (1)" doublesided="false" model="2105" interior="5" dimension="5" posX="1790.55859375" posY="-1774.1806640625" posZ="66.083526611328" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GB_romanpot01) (2)" doublesided="false" model="2811" interior="5" dimension="5" posX="1778.4111328125" posY="-1771.6748046875" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GB_romanpot01) (3)" doublesided="false" model="2811" interior="5" dimension="5" posX="1778.3115234375" posY="-1781.966796875" posZ="64.690765380859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GB_romanpot01) (4)" doublesided="false" model="2811" interior="5" dimension="5" posX="1801.224609375" posY="-1771.8291015625" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GB_romanpot01) (5)" doublesided="false" model="2811" interior="5" dimension="5" posX="1801.224609375" posY="-1782.0302734375" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mrk_seating1) (1)" doublesided="false" model="1723" interior="5" dimension="5" posX="1776.7939453125" posY="-1781.4514160156" posZ="64.698577880859" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (mrk_seating1) (1)" doublesided="false" model="1723" interior="5" dimension="5" posX="1781.9445800781" posY="-1782.1018066406" posZ="64.698577880859" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (mrk_seating1) (1)" doublesided="false" model="1723" interior="5" dimension="5" posX="1780.0925292969" posY="-1771.5252685547" posZ="64.698577880859" rotX="0" rotY="0" rotZ="0" />
+</map>

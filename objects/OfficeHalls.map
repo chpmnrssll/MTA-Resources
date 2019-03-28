@@ -1,0 +1,17 @@
+<map edf:definitions="editor_main">
+    <object id="object (mondoshave_LAS) (1)" doublesided="false" model="5066" interior="1" dimension="0" posX="2145.5446777344" posY="1604.6196289063" posZ="1006.7830810547" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="1" posX="2149.8967285156" posY="1602.0921630859" posZ="1002.5811157227" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mafCasLoadbay01) (1)" doublesided="true" model="14577" interior="1" dimension="1" posX="2160.3251953125" posY="1546.3742675781" posZ="1005.8900146484" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="1" posX="2168.6225585938" posY="1617.8908691406" posZ="1000.3551635742" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (1)" doublesided="false" model="14638" interior="1" dimension="1" posX="2168.5959472656" posY="1617.9112548828" posZ="998.92816162109" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="1" posX="2196.1765136719" posY="1619.4064941406" posZ="1000.5889282227" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (2)" doublesided="false" model="14638" interior="1" dimension="1" posX="2196.2485351563" posY="1617.9263916016" posZ="998.92651367188" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="1" posX="2223.623046875" posY="1598.2813720703" posZ="1000.5889282227" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (ab_mafsuiteDoor) (3)" doublesided="false" model="14638" interior="1" dimension="1" posX="2225.0871582031" posY="1598.3400878906" posZ="998.95642089844" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="1" posX="2160.4462890625" posY="1603.2919921875" posZ="1000.5541381836" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (4)" doublesided="false" model="14638" interior="1" dimension="1" posX="2160.3942871094" posY="1601.8081054688" posZ="998.97448730469" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (5)" doublesided="false" model="14638" interior="1" dimension="1" posX="2160.5180664063" posY="1601.8076171875" posZ="998.97448730469" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (mondoshave_LAS) (2)" doublesided="false" model="5066" interior="1" dimension="2" posX="2160.4462890625" posY="1603.2919921875" posZ="1000.5541381836" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (4)" doublesided="false" model="14638" interior="1" dimension="2" posX="2160.3942871094" posY="1601.8081054688" posZ="998.97448730469" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_mafsuiteDoor) (5)" doublesided="false" model="14638" interior="1" dimension="2" posX="2160.5180664063" posY="1601.8076171875" posZ="998.97448730469" rotX="0" rotY="0" rotZ="0" />
+</map>

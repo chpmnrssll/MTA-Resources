@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (paperchase_stairs) (1)" doublesided="false" model="14596" interior="1" dimension="0" posX="0" posY="0" posZ="-50" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (paperchase_stairs) (2)" doublesided="true" model="14596" interior="1" dimension="0" posX="-6.1552734375" posY="7.990234375" posZ="-66.077590942383" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (paperchase_stairs) (3)" doublesided="true" model="14596" interior="1" dimension="0" posX="-0.302734375" posY="3.7802734375" posZ="-45.321449279785" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (paperchase_stairs) (4)" doublesided="true" model="14596" interior="1" dimension="0" posX="-0.3388671875" posY="3.7744140625" posZ="-45.989822387695" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (kmb_petroldoor) (1)" doublesided="false" model="2911" interior="1" dimension="0" posX="4.44921875" posY="0.1796875" posZ="-54.860828399658" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (kmb_petroldoor) (2)" doublesided="false" model="2911" interior="1" dimension="0" posX="-2.607421875" posY="1.1669921875" posZ="-60.663997650146" rotX="0" rotY="0" rotZ="0" />
+</map>

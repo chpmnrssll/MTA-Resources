@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" version="1.0" type="script"/>
+	<script src="wanted_client.lua" type="client"/>
+	<file src="star.png"/>
+</meta>

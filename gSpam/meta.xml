@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" version="1.0" name="gSpam" type="script"/>
+	<script src="gSpam_client.lua" type="client"/>
+</meta>

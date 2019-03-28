@@ -1,0 +1,160 @@
+<meta>
+	<info author="karlis" description="GTAIV style hud bringed to MTASA" version="1.2.0" type="script" />
+	<file src="images/radar.jpg"/>
+	<file src="images/blips/0.png"/>
+	<file src="images/blips/0-up.png"/>
+	<file src="images/blips/1.png"/>
+	<file src="images/blips/2.png"/>
+	<file src="images/blips/3.png"/>
+	<file src="images/blips/4.png"/>
+	<file src="images/blips/5.png"/>
+	<file src="images/blips/6.png"/>
+	<file src="images/blips/7.png"/>
+	<file src="images/blips/8.png"/>
+	<file src="images/blips/9.png"/>
+	<file src="images/blips/10.png"/>
+	<file src="images/blips/11.png"/>
+	<file src="images/blips/12.png"/>
+	<file src="images/blips/13.png"/>
+	<file src="images/blips/14.png"/>
+	<file src="images/blips/15.png"/>
+	<file src="images/blips/16.png"/>
+	<file src="images/blips/17.png"/>
+	<file src="images/blips/18.png"/>
+	<file src="images/blips/19.png"/>
+	<file src="images/blips/20.png"/>
+	<file src="images/blips/21.png"/>
+	<file src="images/blips/22.png"/>
+	<file src="images/blips/23.png"/>
+	<file src="images/blips/24.png"/>
+	<file src="images/blips/25.png"/>
+	<file src="images/blips/26.png"/>
+	<file src="images/blips/27.png"/>
+	<file src="images/blips/28.png"/>
+	<file src="images/blips/29.png"/>
+	<file src="images/blips/30.png"/>
+	<file src="images/blips/31.png"/>
+	<file src="images/blips/32.png"/>
+	<file src="images/blips/33.png"/>
+	<file src="images/blips/34.png"/>
+	<file src="images/blips/35.png"/>
+	<file src="images/blips/36.png"/>
+	<file src="images/blips/37.png"/>
+	<file src="images/blips/38.png"/>
+	<file src="images/blips/39.png"/>
+	<file src="images/blips/40.png"/>
+	<file src="images/blips/41.png"/>
+	<file src="images/blips/42.png"/>
+	<file src="images/blips/43.png"/>
+	<file src="images/blips/44.png"/>
+	<file src="images/blips/45.png"/>
+	<file src="images/blips/46.png"/>
+	<file src="images/blips/47.png"/>
+	<file src="images/blips/48.png"/>
+	<file src="images/blips/49.png"/>
+	<file src="images/blips/50.png"/>
+	<file src="images/blips/51.png"/>
+	<file src="images/blips/52.png"/>
+	<file src="images/blips/53.png"/>
+	<file src="images/blips/54.png"/>
+	<file src="images/blips/55.png"/>
+	<file src="images/blips/56.png"/>
+	<file src="images/blips/57.png"/>
+	<file src="images/blips/58.png"/>
+	<file src="images/blips/59.png"/>
+	<file src="images/blips/60.png"/>
+	<file src="images/blips/61.png"/>
+	<file src="images/blips/62.png"/>
+	<file src="images/blips/63.png"/>
+	<file src="images/blips/pickup1.png"/>
+	<file src="images/blips/pickup0.png"/>
+	<file src="images/blips/ped.png"/>
+	<file src="images/blips/pedvehicle.png"/>
+	<file src="images/blips/vehicle.png"/>
+	<file src="images/blips/pickup2.png"/>
+	<file src="images/ring.png" />
+	<file src="images/ring2.png" />
+	<file src="images/ring3.png" />
+	<file src="images/ring6.png" />
+	<file src="images/ring12.png" />
+	<file src="images/ring23.png" />
+	<file src="images/ring45.png" />
+	<file src="images/ring90.png" />
+	<file src="images/ring180.png" />
+	<file src="images/ring360.png" />
+	<file src="images/mask.png" />
+	<file src="images/dmg.png" />
+	<file src="images/0.png" />
+	<file src="images/1.png" />
+	<file src="images/2.png" />
+	<file src="images/3.png" />
+	<file src="images/4.png" />
+	<file src="images/5.png" />
+	<file src="images/6.png" />
+	<file src="images/7.png" />
+	<file src="images/8.png" />
+	<file src="images/9.png" />
+	<file src="images/10.png" />
+	<file src="images/11.png" />
+	<file src="images/12.png" />
+	<file src="images/14.png" />
+	<file src="images/15.png" />
+	<file src="images/16.png" />
+	<file src="images/17.png" />
+	<file src="images/18.png" />
+	<file src="images/22.png" />
+	<file src="images/23.png" />
+	<file src="images/24.png" />
+	<file src="images/25.png" />
+	<file src="images/26.png" />
+	<file src="images/27.png" />
+	<file src="images/28.png" />
+	<file src="images/29.png" />
+	<file src="images/30.png" />
+	<file src="images/31.png" />
+	<file src="images/32.png" />
+	<file src="images/33.png" />
+	<file src="images/34.png" />
+	<file src="images/35.png" />
+	<file src="images/36.png" />
+	<file src="images/37.png" />
+	<file src="images/38.png" />
+	<file src="images/39.png" />
+	<file src="images/40.png" />
+	<file src="images/41.png" />
+	<file src="images/42.png" />
+	<file src="images/43.png" />
+	<file src="images/44.png" />
+	<file src="images/46.png" />
+	<file src="images/radios/1.png" />
+	<file src="images/radios/2.png" />
+	<file src="images/radios/3.png" />
+	<file src="images/radios/4.png" />
+	<file src="images/radios/5.png" />
+	<file src="images/radios/6.png" />
+	<file src="images/radios/7.png" />
+	<file src="images/radios/8.png" />
+	<file src="images/radios/9.png" />
+	<file src="images/radios/10.png" />
+	<file src="images/radios/11.png" />
+	<file src="images/radios/12.png" />
+	<file src="images/wanted_a.png" />
+	<file src="images/wanted.png" />
+	<file src="images/mask2.png" />
+	<file src="images/roundArea.png" />
+	<file src="shader.fx" />
+	<export function="createRoundRadarArea" type="client"/>
+	<export function="roundRadarAreaDimensions" type="client"/>
+	<export function="roundRadarAreaFlashing" type="client"/>
+	<export function="roundRadarAreaColor" type="client"/>
+	<export function="isElementInRoundRadarArea" type="client"/>
+	<export function="getElementsInRoundRadarArea" type="client"/>
+	<export function="createRoundRadarArea" type="server"/>
+	<export function="roundRadarAreaDimensions" type="server"/>
+	<export function="roundRadarAreaFlashing" type="server"/>
+	<export function="roundRadarAreaColor" type="server"/>
+	<export function="isElementInRoundRadarArea" type="server"/>
+	<export function="getElementsInRoundRadarArea" type="server"/>
+	<script src="client.lua" type="client"/>
+	<script src="server.lua" type="server"/>
+</meta>

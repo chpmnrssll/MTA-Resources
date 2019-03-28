@@ -1,0 +1,370 @@
+<map>
+	<!-- FORMAT
+		--Dont change amounts for weapons, they are the amount of a full clip. Change the price per clip instead.
+		--All items were added for completeness. Any unused/unwanted items can be commented out.
+		
+		<list id="">
+			<item model="" id="" price="" weaponid="" amount="" offX="" offY="" offZ="" scale="" rotX="" rotY="" rotZ=""/>
+		</list>
+		
+		<shop type="" name="" posX="" posY="" posZ="">
+			<marker posX="" posY="" posZ="" type="cylinder" color="#88000088" interior="" dimension="" size="0.5"/>
+		</shop>
+	-->
+	
+	<list id="BurgerShot">
+		<item model="2213" id="Little Moo's Kids Meal"	price="2" amount="20"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2354" id="Salad Meal"				price="6" amount="30"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2214" id="Beef Tower Meal"			price="6" amount="40"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2212" id="Meat Stack Meal"			price="12" amount="80"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+	</list>
+	
+	<shop type="BurgerShot" name="Marina, Los Santos" posX="810.48" posY="-1616.25" posZ="13.54">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="0" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Mulholland, Los Santos" posX="1199.13" posY="-918.071" posZ="43.12">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="1" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Calton Heights, San Fierro" posX="-2356.48" posY="1008.01" posZ="50.89">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="2" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="2" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Doherty, San Fierro" posX="-2336.95" posY="-166.646" posZ="35.55">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="3" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="3" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Financial, San Fierro" posX="-1912.27" posY="828.025" posZ="34.5615">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="4" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="4" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Spinybed, Las Venturas" posX="2169.86" posY="2795.79" posZ="10.82">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="5" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="5" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Whitewood Estates, Las Venturas" posX="1158.43" posY="2072.02" posZ="11.06">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="6" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="6" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Redsands East, Las Venturas" posX="1872.24" posY="2072.07" posZ="11.06">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="7" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="7" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Old Venturas Strip, Las Venturas" posX="2366.74" posY="2071.02" posZ="10.82">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="8" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="8" size="0.5"/>
+	</shop>
+	<shop type="BurgerShot" name="Old Venturas Strip, Las Venturas" posX="2472.68" posY="2033.88" posZ="11.06">
+		<marker posX="376.51" posY="-67.43" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="9" size="0.5"/>
+		<marker posX="373.67" posY="-65.57" posZ="1000.5" type="cylinder" color="#88000088" interior="10" dimension="9" size="0.5"/>
+	</shop>
+	
+	<list id="Cluckin' Bell">
+		<item model="2215" id="Cluckin' Little Meal"	price="2" amount="20"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2353" id="Salad Meal"				price="10" amount="30"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2216" id="Cluckin' Big Meal"		price="5" amount="40"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2217" id="Cluckin' Huge Meal"		price="10" amount="80"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+	</list>
+	
+	<shop type="Cluckin' Bell" name="Willowfield, Los Santos" posX="2397.83" posY="-1898.65" posZ="13.7131">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="0" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="East Los Santos, Los Santos" posX="2419.95" posY="-1509.8" posZ="24.1568">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="1" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Market, Los Santos" posX="928.525" posY="-1352.77" posZ="13.4344">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="2" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="2" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Downtown, San Fierro" posX="-1815.84" posY="618.678" posZ="35.2989">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="3" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="3" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Ocean Flats, San Fierro" posX="-2671.53" posY="258.344" posZ="4.64932">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="4" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="4" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Redsands East/The Emerald Isle, Las Venturas" posX="2102.69" posY="2228.76" posZ="11.0579">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="5" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="5" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Old Venturas Strip, Las Venturas" posX="2393.18" posY="2041.66" posZ="10.8472">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="6" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="6" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Pilgrim, Las Venturas" posX="2638.58" posY="1671.18" posZ="11.0231">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="7" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="7" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Creek, Las Venturas" posX="2838.43" posY="2407.26" posZ="11.061">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="8" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="8" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Angel Pine, Whetstone" posX="-2155.03" posY="-2460.28" posZ="30.8484">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="9" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="9" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Tierra Robada" posX="-1213.71" posY="1830.46" posZ="41.9335">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="10" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="10" size="0.5"/>
+	</shop>
+	<shop type="Cluckin' Bell" name="Bone County, Fort Carson" posX="172.727" posY="1176.68" posZ="14.75">
+		<marker posX="368.12" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="11" size="0.5"/>
+		<marker posX="370.91" posY="-6.02" posZ="1000.75" type="cylinder" color="#88000088" interior="9" dimension="11" size="0.5"/>
+	</shop>
+	
+	<list id="The Well Stacked Pizza Co.">
+		<item model="2218" id="Buster"			price="2"	amount="20"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2355" id="Salad Meal"		price="10"	amount="30"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2219" id="Double D-Luxe"	price="5" 	amount="40"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+		<item model="2220" id="Full Rack"		price="10"	amount="80"	offX="0.038" offY="0" offZ="0.02" scale="0.14" rotX="-20" rotY="20" rotZ="80"/>
+	</list>
+	
+	<shop type="The Well Stacked Pizza Co." name="Idlewood, Los Santos" posX="2105.46" posY="-1806.47" posZ="13.55">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="0" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="0" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Financial, San Fierro" posX="-1808.70" posY="945.92" posZ="24.89">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="1" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="1" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Esplande North, San Fierro (Pier 69)" posX="-1720.95" posY="1359.69" posZ="7.18">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="2" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="2" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="2" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Redsands East/The Emerald Isle, Las Venturas" posX="2083.32" posY="2224.69" posZ="11.02">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="3" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="3" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="3" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Roca Escalante, Las Venturas" posX="2351.80" posY="2533.62" posZ="10.82">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="4" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="4" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="4" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Pilgrim/Starfish Casino, Las Venturas" posX="2638.78" posY="1849.76" posZ="11.02">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="5" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="5" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="5" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Creek, Las Venturas" posX="2756.78" posY="2477.33" posZ="11.06">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="6" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="6" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="6" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Palomino Creek, Red County" posX="2331.80" posY="75.05" posZ="26.62">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="7" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="7" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="7" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Montgomery, Red County" posX="1367.53" posY="248.38" posZ="19.56">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="8" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="8" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="8" size="0.5"/>
+	</shop>
+	<shop type="The Well Stacked Pizza Co." name="Blueberry, Red County" posX="203.41" posY="-201.94" posZ="1.57">
+		<marker posX="372.71" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="9" size="0.5"/>
+		<marker posX="374.72" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="9" size="0.5"/>
+		<marker posX="376.67" posY="-118.80" posZ="1000.49" type="cylinder" color="#88000088" interior="5" dimension="9" size="0.5"/>
+	</shop>
+	
+	<list id="DonutShop">
+		<item model="2221" id="Muffin Meal"			price="2" amount="20"	offX="0" offY="0" offZ="0.02" scale="0.13" rotX="0" rotY="0" rotZ="60"/>
+		<item model="2223" id="Donut Stack"			price="4" amount="40"	offX="0" offY="0" offZ="0.02" scale="0.13" rotX="0" rotY="0" rotZ="60"/>
+		<item model="2222" id="Donut Double Stack"	price="8" amount="80"	offX="0" offY="0" offZ="0.02" scale="0.13" rotX="0" rotY="0" rotZ="60"/>
+	</list>
+	
+	<shop type="DonutShop" name="Jim's Sticky Ring" posX="1038.21" posY="-1340.73" posZ="13.74">
+		<marker posX="380.75" posY="-190.75" posZ="999.5" type="cylinder" color="#88000088" interior="17" dimension="0" size="0.5"/>
+		<marker posX="379.40" posY="-190.40" posZ="999.5" type="cylinder" color="#88000088" interior="17" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="DonutShop" name="Tuff Nut Donuts" posX="-2767.87" posY="788.84" posZ="52.78">
+		<marker posX="380.75" posY="-190.75" posZ="999.5" type="cylinder" color="#88000088" interior="17" dimension="1" size="0.5"/>
+		<marker posX="379.40" posY="-190.40" posZ="999.5" type="cylinder" color="#88000088" interior="17" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="DonutShop" name="King Ring" posX="-144.04" posY="1224.59" posZ="19.89">
+		<marker posX="451.39" posY="-83.66" posZ="998.5" type="cylinder" color="#88000088" interior="4" dimension="0" size="0.5"/>
+		<marker posX="449.41" posY="-83.66" posZ="998.5" type="cylinder" color="#88000088" interior="4" dimension="0" size="0.5"/>
+	</shop>
+	
+	<list id="Sprunk">
+		<item model="2601" id="Sprunk" price="2" amount="20" offX="0" offY="0" offZ="0.02" scale="0.38" rotX="0" rotY="0" rotZ="60"/>
+	</list>
+	
+	<shop type="Sprunk" name="CJ_SPRUNK1">
+		<marker posX="2224.40" posY="-1153.41" posZ="1024.75" type="cylinder" color="#88000088" interior="15" dimension="0" size="0.5"/> <!--LS Motel-->
+		<marker posX="2575.91" posY="-1284.40" posZ="1060.00" type="cylinder" color="#88000088" interior="2" dimension="0" size="0.5"/> <!--LS Italian-->
+		<marker posX="2209.09" posY="1607.20" posZ="998.90" type="cylinder" color="#88000088" interior="1" dimension="1" size="0.5"/> <!--Spectre breakroom-->
+		<marker posX="2222.99" posY="1606.81" posZ="998.90" type="cylinder" color="#88000088" interior="1" dimension="1" size="0.5"/> <!--spectre hallway-->
+		<marker posX="495.96" posY="-23.52" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="0" size="0.5"/> <!--LS club-->
+		<marker posX="501.83" posY="-2.21" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="0" size="0.5"/> <!--LS club-->
+		<marker posX="495.96" posY="-23.52" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="1" size="0.5"/> <!--SF club-->
+		<marker posX="501.83" posY="-2.21" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="1" size="0.5"/> <!--SF club-->
+		<marker posX="495.96" posY="-23.52" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="2" size="0.5"/> <!--LV club-->
+		<marker posX="501.83" posY="-2.21" posZ="999.60" type="cylinder" color="#88000088" interior="17" dimension="2" size="0.5"/> <!--LV club-->
+		<!--
+		<marker posX="2155.91" posY="1606.77" posZ="1000.05" type="cylinder" color="#88000088" interior="1" dimension="0" size="0.5"/> <!--Casino hallway-->
+		<marker posX="-19.0391" posY="-57.8359" posZ="1003.63" type="cylinder" color="#88000088" interior="6" dimension="0" size="0.5"/> <!--24/7-->
+		<marker posX="-16.1172" posY="-91.6406" posZ="1003.63" type="cylinder" color="#88000088" interior="18" dimension="0" size="0.5"/> <!--24/7-->
+		<marker posX="-32.4453" posY="-186.695" posZ="1003.63" type="cylinder" color="#88000088" interior="17" dimension="0" size="0.5"/> <!--24/7-->
+		<marker posX="-35.7266" posY="-140.227" posZ="1003.63" type="cylinder" color="#88000088" interior="16" dimension="0" size="0.5"/> <!--24/7-->
+		<marker posX="373.828" posY="-178.141" posZ="1000.73" type="cylinder" color="#88000088" interior="15" dimension="0" size="0.5"/> <!--???-->
+		-->
+	</shop>
+	
+	<shop type="Sprunk" name="CJ_EXT_SPRUNK">
+		<marker posX="1788.39" posY="-1369.26" posZ="14.75" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="1729.84" posY="-1943.86" posZ="12.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="2060.12" posY="-1898.45" posZ="12.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="1929.55" posY="-1772.45" posZ="12.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="2325.98" posY="-1645.96" posZ="13.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="2352.99" posY="-1357.16" posZ="23.30" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="1153.90" posY="-1460.89" posZ="14.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-1349.29" posY="492.28" posZ="10.18" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2119.74" posY="-423.39" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2119.41" posY="-422.22" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2097.32" posY="-397.52" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2092.11" posY="-490.87" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2063.28" posY="-490.86" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2005.58" posY="-490.87" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2034.41" posY="-490.86" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2068.62" posY="-397.51" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2039.85" posY="-397.51" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-2011.19" posY="-397.51" posZ="34.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-1981.60" posY="142.61" posZ="26.60" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="2320.00" posY="2532.02" posZ="9.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="1519.32" posY="1055.25" posZ="9.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-862.88" posY="1537.43" posZ="21.60" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-14.70" posY="1176.18" posZ="18.60" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="-252.92" posY="2597.95" posZ="61.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="200.18" posY="-107.69" posZ="0.50" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+		<marker posX="2503.18" posY="1244.51" posZ="9.80" type="cylinder" color="#88000088" interior="0" dimension="0" size="0.5"/>
+	</shop>
+
+	<list id="Bank">
+		<item model="1274" id="Deposit" offX="0" offY="0" offZ="0.02" scale="0.2" rotX="0" rotY="0" rotZ="0"/>
+		<item model="1274" id="Withdraw" offX="0" offY="0" offZ="0.02" scale="0.2" rotX="0" rotY="0" rotZ="0"/>
+		<!-- <item model="1274" id="Transfer" offX="0" offY="0" offZ="0.02" scale="0.2" rotX="0" rotY="0" rotZ="0"/> -->
+	</list>
+	
+	<shop type="Bank" name="Los Santos Savings and Loan" posX="1788.78" posY="-1298.46" posZ="13.37">
+		<marker posX="358.23" posY="163.19" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+		<marker posX="358.23" posY="166.29" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+		<marker posX="358.23" posY="168.98" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+		<marker posX="358.23" posY="178.64" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+		<marker posX="358.23" posY="182.59" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+		<marker posX="358.23" posY="186.23" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="0"/>
+	</shop>
+	<shop type="Bank" name="San Fierro Big Pointy Bank" posX="-1749.32" posY="870.99" posZ="25.08">
+		<marker posX="358.23" posY="163.19" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+		<marker posX="358.23" posY="166.29" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+		<marker posX="358.23" posY="168.98" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+		<marker posX="358.23" posY="178.64" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+		<marker posX="358.23" posY="182.59" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+		<marker posX="358.23" posY="186.23" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="1"/>
+	</shop>
+	<shop type="Bank" name="Los Venturas Syndicated" posX="2447.68" posY="2376.26" posZ="12.16">
+		<marker posX="358.23" posY="163.19" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+		<marker posX="358.23" posY="166.29" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+		<marker posX="358.23" posY="168.98" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+		<marker posX="358.23" posY="178.64" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+		<marker posX="358.23" posY="182.59" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+		<marker posX="358.23" posY="186.23" posZ="1007.38" type="cylinder" size="0.5" color="#88000088" interior="3" dimension="2"/>
+	</shop>
+	
+	<list id="Ammu-Nation">
+		<item model="331" id="Brass Knuckles"	price="100" weaponid="1" amount="1"		offX="0.04" offY="0" offZ="0.05" scale="0.5" rotX="0" rotY="135" rotZ="0"/>
+		<!--
+		<item model="333" id="Golf Club"		price="100" weaponid="2" amount="1"		offX="0.01" offY="0" offZ="0.07" scale="0.12" rotX="180" rotY="-30" rotZ="0"/>
+		<item model="334" id="Nightstick"		price="100" weaponid="3" amount="1"		offX="-0.03" offY="0" offZ="0.015" scale="0.18" rotY="45"/>
+		<item model="335" id="Knife"			price="100" weaponid="4" amount="1"		offX="-0.03" offY="-0.01" offZ="0.015" scale="0.28" rotY="45"/>
+		<item model="336" id="Baseball Bat"		price="100" weaponid="5" amount="1"		offX="-0.03" offY="0" offZ="0" scale="0.14" rotX="0" rotY="40" rotZ="0"/>
+		<item model="337" id="Shovel"			price="100" weaponid="6" amount="1"		offX="0.00" offY="0" offZ="0.0" scale="0.1" rotX="30" rotY="0" rotZ="90"/>
+		<item model="338" id="Pool Cue"			price="100" weaponid="7" amount="1"		offX="-0.03" offY="0" offZ="-0.01" scale="0.08" rotX="0" rotY="35" rotZ="0"/>
+		<item model="339" id="Katana"			price="100" weaponid="8" amount="1"		offX="-0.03" offY="0" offZ="0" scale="0.08" rotX="0" rotY="35" rotZ="0"/>
+		<item model="341" id="Chainsaw"			price="100" weaponid="9" amount="1"		offX="-0.05" offY="0" offZ="-0.025" scale="0.13" rotX="0" rotY="-30" rotZ="0"/>
+		-->
+		<item model="346" id="Pistol"			price="50" weaponid="22" amount="17"	offX="-0.035" offY="-0.01" offZ="0" scale="0.32" rotX="0" rotY="-5" rotZ="0"/>
+		<item model="347" id="Silenced Pistol"	price="75" weaponid="23" amount="17"	offX="-0.035" offY="0" offZ="0" scale="0.18" rotX="0" rotY="-5" rotZ="0"/>
+		<item model="348" id="Desert Eagle"		price="100" weaponid="24" amount="7"	offX="-0.035" offY="0" offZ="-0.01" scale="0.26" rotX="0" rotY="-25" rotZ="0"/>
+		<item model="349" id="Shotgun"			price="100" weaponid="25" amount="1"	offX="-0.019" offY="0" offZ="0.0" scale="0.10" rotX="0" rotY="-40" rotZ="0"/>
+		<item model="350" id="Sawn-Off Shotgun"	price="200" weaponid="26" amount="2"	offX="-0.035" offY="0" offZ="-0.02" scale="0.18" rotX="0" rotY="-35" rotZ="0"/>
+		<item model="351" id="Combat Shotgun"	price="400" weaponid="27" amount="7"	offX="-0.035" offY="0" offZ="-0.02" scale="0.14" rotX="0" rotY="-30" rotZ="0"/>
+		<item model="372" id="Tec9"				price="100" weaponid="32" amount="50"	offX="-0.032" offY="0" offZ="-0.0" scale="0.20" rotX="0" rotY="-20" rotZ="0"/>
+		<item model="352" id="Uzi"				price="150" weaponid="28" amount="50"	offX="-0.022" offY="0" offZ="0.035" scale="0.26" rotX="0" rotY="-2.5" rotZ="0"/>
+		<item model="353" id="MP5"				price="300" weaponid="29" amount="30"	offX="-0.018" offY="0" offZ="-0.02" scale="0.20" rotX="0" rotY="-35" rotZ="0"/>
+		<item model="355" id="AK47"				price="500" weaponid="30" amount="30"	offX="-0.015" offY="0" offZ="-0.0" scale="0.10" rotX="0" rotY="-45" rotZ="0"/>
+		<item model="356" id="M4"				price="600" weaponid="31" amount="50"	offX="-0.016" offY="0" offZ="-0.0" scale="0.10" rotX="0" rotY="-50" rotZ="0"/>
+		<item model="357" id="Country Rifle"	price="800" weaponid="33" amount="1"	offX="-0.021" offY="0" offZ="-0.0" scale="0.10" rotX="0" rotY="-35" rotZ="0"/>
+		<item model="358" id="Sniper Rifle"		price="1000" weaponid="34" amount="1"	offX="-0.016" offY="0" offZ="-0.0" scale="0.10" rotX="0" rotY="-40" rotZ="0"/>
+		<item model="344" id="Molotov Cocktail"	price="200" weaponid="18" amount="1"	offX="-0.01" offY="-0.01" offZ="0.04" scale="0.30" rotX="0" rotY="35" rotZ="0"/>
+		<item model="342" id="Grenade"			price="500" weaponid="16" amount="1"	offX="0.02" offY="-0.03" offZ="0.01" scale="0.7" rotX="0" rotY="-15" rotZ="90"/>
+		<item model="343" id="Tear Gas"			price="1000" weaponid="17" amount="1"	offX="-0.03" offY="-0.02" offZ="0.02" scale="0.45" rotX="0" rotY="20" rotZ="0"/>
+		<item model="363" id="Satchel Charge"	price="2000" weaponid="39" amount="1"	offX="-0.02" offY="0" offZ="0.05" scale="0.2" rotX="0" rotY="35" rotZ="0"/>
+		<!--
+		<item model="359" id="Rocket Launcher"	price="100000" weaponid="35" amount="1"	offX="0.02" offY="0" offZ="0.02" scale="0.08" rotX="0" rotY="-50" rotZ="0"/>
+		<item model="360" id="Heat-Seeking RPG"	price="100000" weaponid="36" amount="1"	offX="0.02" offY="0" offZ="0.02" scale="0.08" rotX="0" rotY="-50" rotZ="0"/>
+		-->
+		<item model="361" id="Flamethrower"		price="5000" weaponid="37" amount="50"	offX="-0.045" offY="0" offZ="-0.01" scale="0.09" rotX="0" rotY="-20" rotZ="0"/>
+		<item model="362" id="Minigun"			price="10000" weaponid="38" amount="500"	offX="-0.045" offY="0" offZ="-0.01" scale="0.09" rotX="0" rotY="-25" rotZ="0"/>
+		<!--
+		<item model="365" id="Spray Can"			price="100" weaponid="41" amount="500"	offX="-0.02" offY="-0.01" offZ="0.06" scale="0.4" rotX="0" rotY="20" rotZ="0"/>
+		<item model="366" id="Fire Extinguisher"	price="100" weaponid="42" amount="500"	offX="-0.04" offY="-0.01" offZ="0.07" scale="0.14" rotX="0" rotY="25" rotZ="0"/>
+		<item model="367" id="Camera"				price="100" weaponid="43" amount="36"	offX="-0.03" offY="0.04" offZ="0.015" scale="0.25" rotX="0" rotY="0" rotZ="-90"/>
+		<item model="321" id="Long Purple Dildo"	price="50" weaponid="10" amount="1"		offX="-0.03" offY="-0.01" offZ="0.0" scale="0.20" rotX="0" rotY="50" rotZ="0"/>
+		<item model="322" id="Short Tan Dildo"		price="50" weaponid="11" amount="1"		offX="-0.03" offY="-0.015" offZ="0.03" scale="0.4" rotX="0" rotY="30" rotZ="0"/>
+		<item model="323" id="Vibrator"				price="50" weaponid="12" amount="1"		offX="-0.03" offY="-0.01" offZ="0.01" scale="0.2" rotX="0" rotY="25" rotZ="0"/>
+		<item model="325" id="Flowers"				price="50" weaponid="14" amount="1"		offX="-0.03" offY="-0.01" offZ="0.0" scale="0.14" rotX="0" rotY="20" rotZ="0"/>
+		<item model="326" id="Cane"					price="50" weaponid="15" amount="1"		offX="-0.03" offY="0" offZ="0.005" scale="0.09" rotX="0" rotY="40" rotZ="0"/>
+		<item model="368" id="Night-Vision Goggles"	price="100" weaponid="44" amount="1"	offX="0.0" offY="0.02" offZ="-0.01" scale="0.45" rotX="0" rotY="-90" rotZ="180"/>
+		<item model="369" id="Infrared Goggles"		price="100" weaponid="45" amount="1"	offX="0.0" offY="0.02" offZ="-0.01" scale="0.45" rotX="0" rotY="-90" rotZ="180"/>
+		-->
+		<item model="371" id="Parachute"			price="100" weaponid="46" amount="1"	offX="0" offY="0" offZ="0.014" scale="0.18" rotX="0" rotY="15" rotZ="0"/>
+		<!--
+		<item model="364" id="Satchel Detonator"	price="100" weaponid="40" amount="1"	offX="-0.01" offY="0" offZ="-0.015" scale="0.12" rotX="0" rotY="-60" rotZ="0"/>
+		-->
+		<item model="1242" id="Body Armor" 			price="2000" weaponid="armor" amount="100"	offX="0" offY="0" offZ="0.025" scale="0.24" rotX="0" rotY="15" rotZ="0"/>
+	</list>
+		
+	<shop type="Ammu-Nation" name="Market, Los Santos" posX="1368.98" posY="-1279.70" posZ="13.54">
+		<marker posX="308.13" posY="-141.46" posZ="998.60" type="cylinder" color="#88000088" interior="7" dimension="0" size="0.5"/>
+		<marker posX="313.97" posY="-138.95" posZ="1003.06" type="cylinder" color="#88000088" interior="7" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Willowfield, Los Santos" posX="2400.51" posY="-1981.99" posZ="13.54">
+		<marker posX="295.03" posY="-38.51" posZ="1000.51" type="cylinder" color="#88000088" interior="1" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Ocean Flats, San Fierro" posX="-2625.84" posY="208.24" posZ="4.81">
+		<marker posX="295.03" posY="-38.51" posZ="1000.51" type="cylinder" color="#88000088" interior="1" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Old Venturas Strip, Las Venturas" posX="2539.54" posY="2083.98" posZ="10.82">
+		<marker posX="295.57" posY="-80.78" posZ="1000.51" type="cylinder" color="#88000088" interior="4" dimension="0" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Come-A-Lot, Las Venturas" posX="2159.54" posY="943.20" posZ="10.82">
+		<marker posX="295.57" posY="-80.78" posZ="1000.51" type="cylinder" color="#88000088" interior="4" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Blueberry, Red County" posX="243.28" posY="-178.34" posZ="1.58">
+		<marker posX="308.13" posY="-141.46" posZ="998.60" type="cylinder" color="#88000088" interior="7" dimension="1" size="0.5"/>
+		<marker posX="313.97" posY="-138.95" posZ="1003.06" type="cylinder" color="#88000088" interior="7" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Palomino Creek, Red County" posX="2333.08" posY="61.59" posZ="26.70">
+		<marker posX="295.57" posY="-80.78" posZ="1000.51" type="cylinder" color="#88000088" interior="4" dimension="3" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Angel Pine, Whetstone" posX="-2093.64" posY="-2464.95" posZ="30.62">
+		<marker posX="290.00" posY="-109.77" posZ="1000.51" type="cylinder" color="#88000088" interior="6" dimension="1" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Tierra Robada, El Quebrados" posX="-1508.90" posY="2610.69" posZ="55.83">
+		<marker posX="290.00" posY="-109.77" posZ="1000.51" type="cylinder" color="#88000088" interior="6" dimension="2" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="Fort Carson, Bone County" posX="-316.14" posY="829.85" posZ="14.24">
+		<marker posX="290.00" posY="-109.77" posZ="1000.51" type="cylinder" color="#88000088" interior="6" dimension="3" size="0.5"/>
+	</shop>
+	<shop type="Ammu-Nation" name="West Las Venturas, Bone County" posX="776.72" posY="1871.44" posZ="4.90">
+		<marker posX="290.00" posY="-109.77" posZ="1000.51" type="cylinder" color="#88000088" interior="6" dimension="4" size="0.5"/>
+	</shop>
+</map>

@@ -1,0 +1,5 @@
+<meta>
+	<info description="Shader - Light" version="0.0.1" type="script" />
+	<script src="shader_light.lua" type="client" />
+	<file src="shader_light.fx" type="client" />
+</meta>

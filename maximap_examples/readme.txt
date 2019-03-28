@@ -1,0 +1,5 @@
+Maximap_examples is a resource to show a few of the features you could make with Maximap, a replacement resource for MTA's built-in F11 map. The features in this resource are listed below.
+
+- Maximap Control Panel: A small control panel which allows the local player to adapt the maximap to his/her likings. Ability to switch image between normal SA radar image or a higher-res Sattelite image, changing color/alpha of the image, and adjusting movement settings like movement speed, maximum zoom etc.
+- Waypoint: Small script to be able to set a waypoint blip on the map, just like was possible in singleplayer. You can drop the waypoint by right-clicking.
+- Mapnames: Adapted version of "mapnames" resource to work with maximap. It draws names near all of the player blips on the maximap, so you can see who is where.

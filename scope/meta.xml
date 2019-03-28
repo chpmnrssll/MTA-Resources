@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" name="scope" type="script" version="1.0.0"/>
+	<script src="scope_client.lua" type="client"/>
+	<file src="2.png"/>
+</meta>

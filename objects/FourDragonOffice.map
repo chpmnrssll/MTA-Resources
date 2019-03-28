@@ -1,0 +1,22 @@
+<map edf:definitions="editor_main">
+    <object id="object (tr_man_main) (1)" doublesided="false" model="14639" interior="10" dimension="0" posX="1975" posY="970" posZ="1030" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tr_man_glass) (1)" doublesided="false" model="14570" interior="10" dimension="0" posX="1990.7916259766" posY="950.51947021484" posZ="1029.5269775391" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tr_man_pillar) (1)" doublesided="false" model="14569" interior="10" dimension="0" posX="1979.9997558594" posY="958.99432373047" posZ="1030.9527587891" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (tr_man_main_tr) (1)" doublesided="false" model="14643" interior="10" dimension="0" posX="1975" posY="970" posZ="1030" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (MED_OFFICE8_DESK_1) (2)" doublesided="false" model="2205" interior="10" dimension="0" posX="1982.4989013672" posY="951.98278808594" posZ="1028.6339111328" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_couch02) (1)" doublesided="false" model="1703" interior="10" dimension="0" posX="1974.4448242188" posY="968.93896484375" posZ="1028.6856689453" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_couch02) (2)" doublesided="false" model="1703" interior="10" dimension="0" posX="1970.0935058594" posY="960.61096191406" posZ="1028.6856689453" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_couch02) (3)" doublesided="false" model="1703" interior="10" dimension="0" posX="1970.0927734375" posY="964.259765625" posZ="1028.6856689453" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (man_sdr_tables) (1)" doublesided="false" model="1827" interior="10" dimension="0" posX="1975.2756347656" posY="963.31958007813" posZ="1028.7180175781" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kb_swivelchair1) (1)" doublesided="false" model="1714" interior="10" dimension="0" posX="1984.5142822266" posY="952.27337646484" posZ="1028.7067871094" rotX="0" rotY="0" rotZ="225"></object>
+    <object id="object (MED_OFFICE8_DESK_1) (3)" doublesided="false" model="2205" interior="10" dimension="0" posX="1983.6977539063" posY="954.48168945313" posZ="1028.6339111328" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (SWANK_TV_1) (1)" doublesided="false" model="1792" interior="10" dimension="0" posX="1991.8515625" posY="953.65765380859" posZ="1031.1887207031" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (SWANK_TV_1) (3)" doublesided="false" model="1792" interior="10" dimension="0" posX="1991.8515625" posY="953.6572265625" posZ="1030.2878417969" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (SWANK_TV_1) (4)" doublesided="false" model="1792" interior="10" dimension="0" posX="1991.8515625" posY="952.48205566406" posZ="1030.2878417969" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (SWANK_TV_1) (6)" doublesided="false" model="1792" interior="10" dimension="0" posX="1991.8515625" posY="952.4814453125" posZ="1031.1887207031" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (CJ_STAT_2_bit) (1)" doublesided="false" model="2810" interior="18" dimension="0" posX="1721.6199951172" posY="-1655.6650390625" posZ="21.665000915527" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (Katana_LHand) (1)" doublesided="false" model="3028" interior="18" dimension="0" posX="1721.0686035156" posY="-1655.2733154297" posZ="23.320732116699" rotX="0" rotY="272.65997314453" rotZ="21.834991455078"></object>
+    <object id="object (Katana_LHand) (2)" doublesided="false" model="3028" interior="18" dimension="0" posX="1721.8129882813" posY="-1655.3572998047" posZ="22.095731735229" rotX="0" rotY="108" rotZ="271"></object>
+    <object id="object (chinaTgarageDoor) (1)" doublesided="false" model="2957" interior="10" dimension="0" posX="1983.3000488281" posY="947.20001220703" posZ="1031.1999511719" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (chinaTgarageDoor) (2)" doublesided="false" model="2957" interior="10" dimension="0" posX="1987.6999511719" posY="947.20001220703" posZ="1031.1999511719" rotX="0" rotY="0" rotZ="0"></object>
+</map>

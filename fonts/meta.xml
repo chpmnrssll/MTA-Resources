@@ -1,0 +1,17 @@
+<meta>
+	<info author="Abel" name="fonts" type="script" version="1.0.1"/>
+	<script src="fonts_client.lua" type="client"/>
+	
+	<file src="D3SmartismA.ttf"/>
+	<file src="FalturaRegular.ttf"/>
+	<file src="featuredItem.ttf"/>
+	<file src="SFMoviePoster-BoldOblique.ttf"/>
+	<file src="SFMoviePosterCondensed-Bold.ttf"/>
+	<file src="SFMoviePosterCondensed-Obli.ttf"/>
+	<file src="UltraCondensedSansSerif.ttf"/>
+	<file src="UNCON___.ttf"/>
+	<file src="UNCONB___.ttf"/>
+	
+	<export function="getDxFont" type="client" />
+	<export function="getGuiFont" type="client" />
+</meta>

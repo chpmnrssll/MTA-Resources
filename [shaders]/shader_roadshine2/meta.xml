@@ -1,0 +1,5 @@
+<meta>
+	<info description="Shader - Road Shine 2" version="0.0.4" type="script" />
+	<script src="c_roadshine2.lua" type="client" />
+	<file src="roadshine2.fx" type="client" />
+</meta>

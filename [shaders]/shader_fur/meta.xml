@@ -1,0 +1,5 @@
+<meta>
+	<info description="Shader - Fur" version="0.0.1" type="script" />
+	<script src="shader_fur.lua" type="client" />
+	<file src="shader_fur.fx" type="client" />
+</meta>

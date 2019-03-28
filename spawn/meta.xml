@@ -1,0 +1,7 @@
+<meta>
+	<info author="Abel" name="spawn" type="script" version="1.0.1"/>
+	<script src="spawn_server.lua" type="server"/>
+	<script src="spawn_client.lua" type="client"/>
+	<script src="expandList_client.lua" type="client"/>
+	<map src="spawn.xml"/>
+</meta>

@@ -1,0 +1,20 @@
+<map>
+	<company name="The Syndicate" posX="360.98" posY="173.52" posZ="1008.25" interior="3" dimension="0"/>
+	<company name="The Company" posX="1665.84" posY="-1636.60" posZ="93.72" interior="4" dimension="4"/>
+	
+	<briefcase owner="The Syndicate" posX="363.40" posY="204.41" posZ="1008.25" interior="3" dimension="0"/>
+	<briefcase owner="The Syndicate" posX="1780.08" posY="-1305.28" posZ="120.15" interior="0" dimension="0"/>
+	<briefcase owner="The Company" posX="1665.97" posY="-1636.75" posZ="93.6" interior="5" dimension="5"/>
+	
+	<!--
+	<briefcase owner="San Fierro Syndicate Savings and Loan" posX="360.98" posY="173.52" posZ="1008.25" interior="3" dimension="1"/>
+	<briefcase owner="San Fierro Syndicate Savings and Loan" posX="363.40" posY="204.41" posZ="1008.25" interior="3" dimension="1"/>
+	
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="360.98" posY="173.52" posZ="1008.25" interior="3" dimension="2"/>
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="363.40" posY="204.41" posZ="1008.25" interior="3" dimension="2"/>
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="355.51" posY="153.28" posZ="1025.70" interior="3" dimension="2"/>
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="354.67" posY="170.85" posZ="1025.70" interior="3" dimension="2"/>
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="362.25" posY="170.93" posZ="1025.70" interior="3" dimension="2"/>
+	<briefcase owner="Los Venturas Syndicate Savings and Loan" posX="363.26" posY="153.15" posZ="1025.70" interior="3" dimension="2"/>
+	-->
+</map>

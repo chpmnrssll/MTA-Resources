@@ -1,0 +1,182 @@
+<map>
+	<!--
+	<gate id="Ramp" model="3055" interior="0" dimension="0" speed="200" easingType="Linear" easingAmplitude="0.5" subclass="Yakuza" >
+		<offset posX="0" posY="0" posZ="2" />
+		<state id="closed" posX="1580.50" posY="-1440.00" posZ="12.40" rotX="90" rotY="0" rotZ="90" />
+		<state id="open" posX="1580.50" posY="-1440.00" posZ="12.40" rotX="60" rotY="0" rotZ="90" />
+		<trigger posX="1578.00" posY="-1440.00" posZ="13.38" size="10" />
+	</gate>
+	
+	<gate id="LS Authorities Gate" model="968" interior="0" dimension="0" speed="2000" easingType="OutBounce" easingAmplitude="0.5" class="Authorities">
+		<offset posX="-0.03" posY="0" posZ="-0.1" />
+		<state id="closed" posX="1544.69" posY="-1630.80" posZ="13.10" rotX="0" rotY="90" rotZ="90" />
+		<state id="open" posX="1544.69" posY="-1630.80" posZ="13.10" rotX="0" rotY="0" rotZ="90" />
+		<trigger posX="1544.33" posY="-1627.74" posZ="13.38" size="5" />
+	</gate>
+	
+	<gate id="SF Authorities Gate" model="968" interior="0" dimension="0" speed="2000" easingType="OutBounce" easingAmplitude="0.5" class="Authorities">
+		<offset posX="-0.03" posY="0" posZ="-0.1" />
+		<state id="closed" posX="-1572.2" posY="658.83" posZ="6.9" rotX="0" rotY="90" rotZ="90" />
+		<state id="open" posX="-1572.2" posY="658.83" posZ="6.9" rotX="0" rotY="0" rotZ="90" />
+		<trigger posX="-1571.17" posY="661.42" posZ="7.18" size="5" />
+	</gate>
+	
+	<gate id="LV Authorities Gate" model="968" interior="0" dimension="0" speed="2000" easingType="OutBounce" easingAmplitude="0.5" class="Authorities">
+		<offset posX="-0.03" posY="0" posZ="-0.1" />
+		<state id="closed" posX="2238.19" posY="2450.42" posZ="10.58" rotX="0" rotY="90" rotZ="90" />
+		<state id="open" posX="2238.17" posY="2450.42" posZ="10.61" rotX="0" rotY="0" rotZ="90" />
+		<trigger posX="2234.19" posY="2453.1" posZ="10.82" size="5" />
+		<trigger posX="2242.19" posY="2453.1" posZ="10.82" size="5" />
+	</gate>
+    <gate id="LV Authorities Garage 1" model="16773" interior="0" dimension="0" speed="2000" easingType="OutQuad" class="Authorities">
+		<offset posX="3.65" posY="0" posZ="-1" />
+		<state id="closed" posX="2294.6" posY="2498.60" posZ="7.25" rotX="0" rotY="0" rotZ="90" />
+		<state id="open" posX="2298.85" posY="2498.60" posZ="7.25" rotX="90" rotY="0" rotZ="90" />
+		<trigger posX="2292.60" posY="2498.61" posZ="3.28" size="4"/>
+		<trigger posX="2296.60" posY="2498.61" posZ="3.28" size="4"/>
+	</gate>
+	
+    <gate id="LV Authorities Garage 2" model="3055" interior="0" dimension="0" speed="2000" easingType="OutBounce" easingAmplitude="0.2" class="Authorities">
+		<offset posX="-5.7" posY="0" posZ="0.5" />
+		<state id="closed" posX="2337.76" posY="2448.68" posZ="6.45" rotX="0" rotY="0" rotZ="60" />
+		<state id="open" posX="2341.76" posY="2455.68" posZ="6.45" rotX="0" rotY="0" rotZ="60" />
+		<trigger posX="2335.31" posY="2443.63" posZ="5.80" size="10"/>
+	</gate>
+	
+	<gate id="LV Syndicate 1" model="16775" interior="0" dimension="0" speed="3000" easingType="OutQuad" subclass="Syndicate">
+		<state id="closed" posX="2495.11" posY="2350.72" posZ="12.12" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="2500.02" posY="2350.72" posZ="12.12" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="2487.84" posY="2350.22" posZ="10.82" size="10" />
+	</gate>
+    <gate id="LV Syndicate 2" model="16775" interior="0" dimension="0" speed="3000" easingType="OutQuad" subclass="Syndicate">
+		<state id="closed" posX="2480.53" posY="2350.73" posZ="12.12" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="2473.52" posY="2350.73" posZ="12.12" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="2487.84" posY="2350.22" posZ="10.82" size="10" />
+	</gate>
+
+    <gate id="LV Warehouse 1" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="2342.41" posY="2723.36" posZ="11.51" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="2332.91" posY="2723.36" posZ="11.51" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="2347.50" posY="2722.96" posZ="10.78" size="5" />
+	</gate>
+    <gate id="LV Warehouse 2" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="2237.51" posY="2778.22" posZ="11.51" rotX="0" rotY="0" rotZ="270" />
+		<state id="open" posX="2237.51" posY="2787.72" posZ="11.51" rotX="0" rotY="0" rotZ="270" />
+		<trigger posX="2237.10" posY="2773.17" posZ="10.78" size="5" />
+	</gate>
+	
+	<gate id="LV Training" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="1065.50" posY="1362.84" posZ="11.31" rotX="0" rotY="0" rotZ="180" />
+		<state id="open" posX="1052.00" posY="1362.84" posZ="11.31" rotX="0" rotY="0" rotZ="180" />
+		<trigger posX="1067.54" posY="1363.24" posZ="10.67" size="6" />
+	</gate>
+	
+    <gate id="LV Depot 1" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="1607.42" posY="2283.01" posZ="11.32" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="1586.92" posY="2283.01" posZ="11.32" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="1607.51" posY="2282.62" posZ="10.82" size="10" interior="0" dimension="0" />
+	</gate>
+    <gate id="LV Depot 2" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="1577.33" posY="2333.00" posZ="11.32" rotX="0" rotY="0" rotZ="270" />
+		<state id="open" posX="1577.33" posY="2313.00" posZ="11.32" rotX="0" rotY="0" rotZ="270" />
+		<trigger posX="1576.94" posY="2332.95" posZ="10.82" size="10" />
+	</gate>
+	
+	<gate id="LV Meat Plant" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="997.26" posY="2133.26" posZ="11.32" rotX="0" rotY="0" rotZ="270" />
+		<state id="open" posX="997.26" posY="2112.76" posZ="11.32" rotX="0" rotY="0" rotZ="270" />
+		<trigger posX="996.86" posY="2133.21" posZ="10.82" size="10" />
+	</gate>
+	
+	<gate id="LV Meat Warehouse" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="1017.44" posY="2133.22" posZ="11.47" rotX="0" rotY="0" rotZ="270" />
+		<state id="open" posX="1017.44" posY="2115.72" posZ="11.47" rotX="0" rotY="0" rotZ="270" />
+		<trigger posX="1017.04" posY="2133.20" posZ="10.82" size="10" />
+	</gate>
+	
+	<gate id="LV Strip Motel" model="7657" interior="0" dimension="0" speed="3000" easingType="OutBounce">
+		<state id="closed" posX="2103.16" posY="2177.19" posZ="11.16" rotX="0" rotY="0" rotZ="90" />
+		<state id="open" posX="2103.16" posY="2162.69" posZ="11.16" rotX="0" rotY="0" rotZ="90" />
+		<trigger posX="2102.75" posY="2177.15" posZ="10.82" size="6" />
+	</gate>
+	
+    <gate id="Fort Carson Medical Center" model="16775" interior="0" dimension="0" speed="2000" easingType="OutQuad">
+		<state id="closed" posX="-339.40" posY="1052.30" posZ="20.04" rotX="0" rotY="0" rotZ="90" />
+		<state id="open" posX="-335.20" posY="1052.30" posZ="22.82" rotX="90" rotY="0" rotZ="90" />
+		<trigger posX="-340.30" posY="1055.91" posZ="19.73" size="4.5" />
+	</gate>
+	-->
+	
+	<gate id="Assasins LS Garage 1" model="3055" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="Yakuza" >
+		<state id="closed" posX="1538.50" posY="-1451.19" posZ="14.60" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="1543.50" posY="-1451.19" posZ="14.60" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="1534.67" posY="-1450.82" posZ="13.38" size="10" />
+	</gate>
+	<gate id="Assasins LS Garage 2" model="3055" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="Yakuza" >
+		<state id="closed" posX="1530.69" posY="-1451.19" posZ="14.60" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="1526.00" posY="-1451.19" posZ="14.60" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="1534.67" posY="-1450.82" posZ="13.38" size="10" />
+	</gate>
+	
+	<gate id="Italian North Gate" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" subclass="Italian">
+		<state id="closed" posX="-718" posY="1013.099" posZ="11.5" rotX="0" rotY="0" rotZ="178.99" />
+		<state id="open" posX="-709.29" posY="1012.90" posZ="11.5" rotX="0" rotY="0" rotZ="178.99" />
+		<trigger posX="-718" posY="1013.099" posZ="11.5" size="6" />
+	</gate>
+	<gate id="Italian South Gate" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" subclass="Italian">
+		<state id="closed" posX="-725.8994140625" posY="897.7998046875" posZ="11.8" rotX="0" rotY="0" rotZ="358.73657226563" />
+		<state id="open" posX="-716.90" posY="897.59" posZ="11.8" rotX="0" rotY="0" rotZ="358.73657226563" />
+		<trigger posX="-725.8994140625" posY="897.7998046875" posZ="11.8" size="6" />
+	</gate>
+	<gate id="Italian West Gate" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" subclass="Italian">
+		<state id="closed" posX="-726.09997558594" posY="971" posZ="11.800000190735" rotX="0" rotY="0" rotZ="265.74829101563" />
+		<state id="open" posX="-726.70001220703" posY="962.20001220703" posZ="11.75" rotX="0" rotY="0" rotZ="265.74829101563" />
+		<trigger posX="-726.09997558594" posY="971" posZ="11.800000190735" size="6" />
+	</gate>
+	<gate id="Italian East Gate" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" subclass="Italian">
+		<state id="closed" posX="-657.099" posY="920.5" posZ="11.5" rotX="0" rotY="0" rotZ="38.952" />
+		<state id="open" posX="-650.29" posY="926.09" posZ="11.5" rotX="0" rotY="0" rotZ="38.952" />
+		<trigger posX="-657.099" posY="920.5" posZ="11.5" size="6" />
+	</gate>	
+	<!--
+	<gate id="Italian Garage Front door" model="10558" interior="0" dimension="0" speed="2000" easingType="OutQuad" subclass="Italian">
+		<state id="closed" posX="-692.95" posY="965.90" posZ="13.30" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="-691.20" posY="965.90" posZ="15.10" rotX="0" rotY="90" rotZ="0" />
+		<trigger posX="-696.00" posY="965.90" posZ="13.30" size="4.5" />
+		<trigger posX="-691.00" posY="965.90" posZ="13.30" size="4.5" />
+	</gate>
+	
+	<gate id="Italian Garage Back door" model="5302" interior="0" dimension="0" speed="2000" easingType="OutQuad" subclass="Italian">
+		<state id="closed" posX="-670.5" posY="967.20" posZ="13.5" rotX="0" rotY="0" rotZ="180" />
+		<state id="open" posX="-672.5" posY="967.20" posZ="15.19" rotX="0" rotY="90" rotZ="180" />
+		<trigger posX="-673" posY="967.20" posZ="13.5" size="3" />
+		<trigger posX="-668" posY="967.20" posZ="13.5" size="3" />
+	</gate>
+	-->
+	
+	<gate id="Gun Shop Gate 1" model="985" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="Biker" >
+		<state id="closed" posX="813.29" posY="1705.59" posZ="6" rotX="0" rotY="0" rotZ="0" />
+		<state posX="797.5" posY="1705.59" posZ="6" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="809.33" posY="1703.59" posZ="6" size="6" />
+		<trigger posX="810.51" posY="1709.85" posZ="6" size="6" />
+	</gate>
+	
+	<gate id="Gun Shop Gate 2" model="985" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="Biker" >
+		<state id="closed" posX="805.39" posY="1705.59" posZ="6" rotX="0" rotY="0" rotZ="0" />
+		<state id="open" posX="797.5" posY="1705.59" posZ="6" rotX="0" rotY="0" rotZ="0" />
+		<trigger posX="809.33" posY="1703.59" posZ="6" size="6" />
+		<trigger posX="810.51" posY="1709.85" posZ="6" size="6" />
+	</gate>
+	
+	<gate id="Missionary Hill Gate 1" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="FBI" >
+		<state id="closed" posX="-2486.19921875" posY="-616.099609375" posZ="135.10000610352" rotX="0" rotY="0" rotZ="86.495361328125" />
+		<state id="open" posX="-2486.00" posY="-607.20" posZ="135.10000610352" rotX="0" rotY="0" rotZ="90" />
+		<trigger posX="-2486.19921875" posY="-616.099609375" posZ="134.00" size="6" />
+	</gate>
+	<gate id="Missionary Hill Gate 2" model="971" interior="0" dimension="0" speed="3000" easingType="OutBounce" easingAmplitude="0.2" subclass="FBI" >
+		<state id="closed" posX="-2415" posY="-603.09" posZ="131.80" rotX="0" rotY="0" rotZ="305.49" />
+		<state id="open" posX="-2409.8" posY="-610.20" posZ="131.80" rotX="0" rotY="0" rotZ="306.0" />
+		<trigger posX="-2415" posY="-603.09997558594" posZ="131.00" size="6" />
+	</gate>
+	
+</map>

@@ -1,0 +1,5 @@
+<meta>
+	<info description="Shader - Shine" version="0.0.4" type="script" />
+	<script src="shine.lua" type="client" />
+	<file src="shine.fx" type="client" />
+</meta>

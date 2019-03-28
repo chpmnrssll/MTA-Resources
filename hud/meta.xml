@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" version="1.0" name="hud" type="script"/>
+	<script src="hud_client.lua" type="client"/>
+</meta>

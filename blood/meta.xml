@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" version="1.0" name="blood" description="blood" type="script"/>
+	<script src="blood_client.lua" type="client"/>
+</meta>

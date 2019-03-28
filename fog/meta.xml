@@ -1,0 +1,8 @@
+<meta>
+	<info author="Abel" name="fog" type="script" version="1.0"/>
+	<script src="fog_client.lua" type="client"/>
+	<file src="fog.fx" type="client" />
+	
+	<export function="setFogStart" type="client"/>
+	<export function="setFogEnd" type="client"/>
+</meta>

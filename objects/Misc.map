@@ -1,0 +1,14 @@
+<map edf:definitions="editor_main">
+    <object id="object (lxr_motel_doorsim) (2)" doublesided="false" model="2987" interior="1" dimension="0" posX="-791.31298828125" posY="497.2444152832" posZ="1367.5656738281" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lxr_motel_doorsim) (4)" doublesided="false" model="2987" interior="1" dimension="0" posX="-791.31298828125" posY="497.2444152832" posZ="1368.5" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (freight_SFW_door) (1)" doublesided="false" model="2944" interior="0" dimension="0" posX="268.129" posY="1890.695" posZ="-28.877" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (ab_casdorLok) (1)" doublesided="false" model="3089" interior="3" dimension="0" posX="371.26644897461" posY="166.66035461426" posZ="1008.7183227539" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_casdorLok) (1)" doublesided="false" model="3089" interior="3" dimension="1" posX="371.26644897461" posY="166.66035461426" posZ="1008.7183227539" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Lan2officeflrs) (1)" doublesided="false" model="3781" interior="0" dimension="0" posX="1803.0830078125" posY="-1294.1923828125" posZ="34.439834594727" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Lan2officeflrs) (1)" doublesided="false" model="3781" interior="0" dimension="0" posX="1803.0830078125" posY="-1294.1923828125" posZ="61.592239379883" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Lan2officeflrs) (1)" doublesided="false" model="3781" interior="0" dimension="0" posX="1803.0830078125" posY="-1294.1923828125" posZ="94.283332824707" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Lan2officeflrs) (1)" doublesided="false" model="3781" interior="0" dimension="0" posX="1803.0830078125" posY="-1294.1923828125" posZ="116.03632354736" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Carter_GROUND) (1)" doublesided="false" model="17946" interior="0" dimension="0" posX="2533.7302246094" posY="-1290.5598144531" posZ="36.940414428711" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (imy_la_door) (1)" doublesided="false" model="3109" interior="2" dimension="0" posX="2577.6943359375" posY="-1284.9320068359" posZ="1054.8979492188" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (imy_la_door) (3)" doublesided="false" model="3109" interior="2" dimension="0" posX="2577.6943359375" posY="-1283.431640625" posZ="1054.8979492188" rotX="0" rotY="0" rotZ="179.99450683594" />
+</map>

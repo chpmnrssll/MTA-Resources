@@ -1,0 +1,27 @@
+<map edf:definitions="editor_main">
+    <object id="object (posh2_sfe) (1)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1600.1999511719" posY="913.59997558594" posZ="66.400001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (posh2_sfe) (2)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1600.1999511719" posY="859.59997558594" posZ="66.400001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (posh2_sfe) (4)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1600.19921875" posY="886.3994140625" posZ="27.10000038147" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (posh2_sfe) (5)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1600.1999511719" posY="886.40002441406" posZ="94.599998474121" rotX="0" rotY="180" rotZ="0"></object>
+    <object id="object (posh2_sfe) (7)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1627.1999511719" posY="886.59997558594" posZ="65" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (posh2_sfe) (8)" doublesided="true" model="9918" interior="1" dimension="1" posX="-1573.1999511719" posY="886.59997558594" posZ="65" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (fountain_SFW) (1)" doublesided="false" model="9833" interior="1" dimension="1" posX="-1621.3000488281" posY="886.59997558594" posZ="49.299999237061" rotX="0" rotY="0" rotZ="355.75"></object>
+    <object id="object (kb_planterbox) (1)" doublesided="false" model="637" interior="1" dimension="1" posX="-1600.3000488281" posY="886.5" posZ="46.700000762939" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (statue) (3)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1603.6999511719" posY="879.70001220703" posZ="47.400001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (statue) (4)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1596.5" posY="879.70001220703" posZ="47.400001525879" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (statue) (5)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1596.5" posY="893.29998779297" posZ="47.400001525879" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (statue) (6)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1603.8000488281" posY="893.29998779297" posZ="47.400001525879" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (statue) (7)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1607.8000488281" posY="882.90002441406" posZ="47.400001525879" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (statue) (8)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1607.7998046875" posY="890.19921875" posZ="47.400001525879" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (kmb_petroldoor) (1)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1615" posY="902.20001220703" posZ="47.799999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_petroldoor) (2)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1613" posY="902.20001220703" posZ="47.799999237061" rotX="0" rotY="0" rotZ="180"></object>
+    <object id="object (kmb_petroldoor) (3)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1615" posY="871" posZ="47.799999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_petroldoor) (4)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1613" posY="871" posZ="47.799999237061" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (kmb_petroldoor) (5)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1585.5" posY="871" posZ="47.799999237061" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (kmb_petroldoor) (6)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1587.5" posY="871" posZ="47.799999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (kmb_petroldoor) (7)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1585.5" posY="902.20001220703" posZ="47.799999237061" rotX="0" rotY="0" rotZ="179.99450683594"></object>
+    <object id="object (kmb_petroldoor) (8)" doublesided="false" model="2911" interior="1" dimension="1" posX="-1587.5" posY="902.20001220703" posZ="47.799999237061" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (statue) (8)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1592.5999755859" posY="890.20001220703" posZ="47.400001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (statue) (8)" doublesided="false" model="3935" interior="1" dimension="1" posX="-1592.5999755859" posY="883" posZ="47.400001525879" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (kb_planterbox) (1)" doublesided="false" model="637" interior="1" dimension="1" posX="-1600.3000488281" posY="886.5" posZ="46.700000762939" rotX="0" rotY="0" rotZ="180"></object>
+</map>

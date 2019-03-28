@@ -1,0 +1,5 @@
+<meta>
+	<info version="0.0.3" type="script" />
+	<script src="shader_test.lua" type="client" />
+	<file src="shader_test.fx" type="client" />
+</meta>

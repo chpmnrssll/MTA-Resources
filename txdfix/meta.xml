@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" name="txdfix" type="script" version="1.0.0"/>
+	<script src="txdfix_client.lua" type="client"/>
+	<file src="lan2office.txd"/>
+</meta>

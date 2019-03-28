@@ -1,0 +1,93 @@
+<help>
+<topic name="Authorities/Legal">
+Players in any authority class can arrest other wanted players by aiming at them. If the player stands still they will automatically give up and be thrown in jail to serve time and pay the fines.
+</topic>
+
+<topic name="Help">
+Press F9 or type /gamehelp to hide or show this help window.
+</topic>
+
+<topic name="Interiors">
+Interiors are marked with "Enter" and "Exit" signs.
+Some are locked, some are hidden, and some are one way doors.
+</topic>
+
+<topic name="Missions">
+Corporate Espionage
+Mechanic (FSP)
+Truckin  (FSP)
+</topic>
+
+<topic name="Item Pickups">
+Some of the item pickup types available are weapons, money, briefcases, and drugs.
+
+When you die you will drop your current weapon and any cash you are carrying.
+
+You can drop your current weapon by typing /drop or /drop amount for money.
+</topic>
+
+<topic name="Respect">
+You gain and lose respect based on your actions in the game. You lose respect for team, spawn, and civillian kills.
+</topic>
+
+<topic name="Rules">
+No Cheating, Trainers, or Hacking.
+
+Learn how the game works to get ahead.
+</topic>
+
+<topic name="Modding Rules">
+Coming soon.
+</topic>
+
+<topic name="Shops">
+Available shops are Ammu-Nation, Vending Machines, BurgerShot, Cluckin' Bell, The Well Stacked Pizza Co, Donut Shops, and Pay-N-Spray.
+</topic>
+
+<topic name="Spawn">
+The spawn window should popup automatically when you enter the game or die.
+
+Click to expand the list and select your desired class, subclass, and spawn location.
+
+A few classes are locked and can only be accessed by entering the correct password.
+</topic>
+
+<topic name="Stealth">
+Player blips on the map are colored to match the classes.
+
+You can enter stealth mode by crouching while staying out of the line of sight to other players.
+</topic>
+
+<topic name="Stats">
+You can view your current stats on the score board under the Stats tab. They are saved automatically.
+
+Weapon stats will increase/decrease as you use that weapon.
+
+Respect is based on gameplay/sportsmanship.
+</topic>
+
+<topic name="Server Info">
+This server is a RPG/DM style game
+
+Story:
+San Andreas has been reformed into a Police State where gang wars, corruption, corporate greed, and propaganda abound.
+</topic>
+
+<topic name="Vehicles">
+There are many public vehicles scattered around for players to use.
+
+You can us the /park command on one vehicle and it will re-spawn there. If you try to park more than one vehicle, the old one will be abandoned. Your vehicle can be impounded for bad parking, so park right! You can sell any vehicle that you own by parking in the green marker at a dealership. You can buy a vehicle from a dealership buy simply entering it (if you have enough money).
+</topic>
+
+<topic name="Credits">
+Project by:
+Cain
+Abel
+
+Thanks to:
+TheDeepFriedBoot
+Blackjack
+
+MTA Team for such a great mod. It has delayed the programming of my own game engine for the last few years by giving so many tools to play with.
+</topic>
+</help>

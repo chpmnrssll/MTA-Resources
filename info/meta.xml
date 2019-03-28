@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" type="script" version="1.0.0"/>
+	<script src="info_client.lua" type="client"/>
+	<config src="help.xml" type="client"/>
+</meta>

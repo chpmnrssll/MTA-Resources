@@ -1,0 +1,19 @@
+<meta>
+	<info author="Abel" name="stats" type="script" version="1.0.1"/>
+	<script src="stats_server.lua" type="server"/>
+	<script src="stats_client.lua" type="client"/>
+	
+	<settings>
+		<setting name="*shotsToIncrease Colt 45" value="17"/>
+		<setting name="*shotsToIncrease Silenced" value="17"/>
+		<setting name="*shotsToIncrease Deagle" value="7"/>
+		<setting name="*shotsToIncrease Shotgun" value="1"/>
+		<setting name="*shotsToIncrease Sawed-off" value="2"/>
+		<setting name="*shotsToIncrease Combat Shotgun" value="7"/>
+		<setting name="*shotsToIncrease Uzi" value="50"/>
+		<setting name="*shotsToIncrease MP5" value="30"/>
+		<setting name="*shotsToIncrease AK-47" value="30"/>
+		<setting name="*shotsToIncrease M4" value="50"/>
+		<setting name="*shotsToIncrease Sniper" value="1"/>
+	</settings>
+</meta>

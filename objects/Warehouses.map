@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (crackfact_SFS) (1)" doublesided="false" model="11012" interior="0" dimension="0" posX="-2166.8393554688" posY="-236.44296264648" posZ="40.886714935303" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (crack_int1) (1)" doublesided="false" model="11085" interior="0" dimension="0" posX="-2164.447265625" posY="-237.66323852539" posZ="41.45" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (crack_int1) (2)" doublesided="false" model="11085" interior="0" dimension="0" posX="-2164.5219726563" posY="-237.6123046875" posZ="41.5" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lasnfltrail) (1)" doublesided="false" model="3567" interior="18" dimension="0" posX="1287.6652832031" posY="-44.093673706055" posZ="1000.907409668" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (crates01) (1)" doublesided="false" model="18260" interior="18" dimension="0" posX="1257.0795898438" posY="-67.301246643066" posZ="1003.0725097656" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (crates01) (2)" doublesided="false" model="18260" interior="18" dimension="0" posX="1249.9272460938" posY="-61.075889587402" posZ="1003.0725097656" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (lasntrk2) (1)" doublesided="false" model="3568" interior="18" dimension="0" posX="1269.6646728516" posY="-27.106121063232" posZ="1002.6380615234" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (lasntrk1) (1)" doublesided="false" model="3566" interior="18" dimension="0" posX="1269.6583251953" posY="-38.469776153564" posZ="1002.637512207" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (lasntrk1) (2)" doublesided="false" model="3566" interior="18" dimension="0" posX="1269.658203125" posY="-13.819763183594" posZ="1002.637512207" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (DockCrates2_LA) (1)" doublesided="false" model="3576" interior="18" dimension="0" posX="1286.9100341797" posY="-67.79679107666" posZ="1002.8854370117" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (DockCrates1_LA) (1)" doublesided="false" model="3577" interior="18" dimension="0" posX="1284.2407226563" posY="-67.736053466797" posZ="1002.174621582" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (crdboxes2_LAs) (1)" doublesided="false" model="3630" interior="18" dimension="0" posX="1304.6007080078" posY="-67.807807922363" posZ="1002.8440551758" rotX="0" rotY="0" rotZ="0" />
+
+</map>

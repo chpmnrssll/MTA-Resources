@@ -1,0 +1,13 @@
+<map>
+	<payNSpray id="8"  posX="2056.6"   posY="-1835.9"  posZ="12.54" sizeX="18.54" sizeY="14.7"  sizeZ="8.93"  west="2056.6"   east="2071.3"   south="-1835.9"  north="-1826.97" />
+	<payNSpray id="11" posX="1021.81"  posY="-1018.71" posZ="30.91" sizeX="36.91" sizeY="10.82" sizeZ="6.12"  west="1021.81"  east="1027.93"  south="-1029.53" north="-1018.71" />
+	<payNSpray id="12" posX="491.1"    posY="-1747.55" posZ="9.46"  sizeX="17.57" sizeY="11.89" sizeZ="9.22"  west="481.97"   east="492.72"   south="-1747.55" north="-1734.52" />
+	<payNSpray id="19" posX="-1908.93" posY="292.35"   posZ="40.04" sizeX="45.54" sizeY="14.36" sizeZ="8.82"  west="-1908.93" east="-1900.11" south="277.99"   north="292.35" />
+	<payNSpray id="24" posX="-1790.97" posY="1209.71"  posZ="23.76" sizeX="28.96" sizeY="8.39"  sizeZ="11.75" west="-1790.97" east="-1782.58" south="1209.71"  north="1221.46" />
+	<payNSpray id="27" posX="-2430.13" posY="1013.71"  posZ="49.34" sizeX="55.34" sizeY="8.93"  sizeZ="14.05" west="-2430.13" east="-2421.2"  south="1013.71"  north="1027.76" />
+	<payNSpray id="32" posX="2389.6"   posY="1483.26"  posZ="9.82"  sizeX="15.68" sizeY="8.51"  sizeZ="14.58" west="2389.6"   east="2398.11"  south="1483.26"  north="1497.84" />
+	<payNSpray id="36" posX="1968.23"  posY="2157.88"  posZ="9.6"   sizeX="16.24" sizeY="15.09" sizeZ="9.15"  west="1968.23"  east="1983.32"  south="2157.88"  north="2167.03" />
+	<payNSpray id="40" posX="-1424.11" posY="2576.61"  posZ="54.82" sizeX="60.87" sizeY="7.26"  sizeZ="14.23" west="-1424.11" east="-1416.85" south="2576.61"  north="2590.84" />
+	<payNSpray id="41" posX="-103.64"  posY="1112.42"  posZ="18.7"  sizeX="24.55" sizeY="7.27"  sizeZ="13.37" west="-103.64"  east="-96.36"   south="1112.42"  north="1125.79" />
+	<payNSpray id="47" posX="715.81"   posY="-462.4"   posZ="14.96" sizeX="21.44" sizeY="8.49"  sizeZ="15.11" west="715.81"   east="724.29"   south="-462.4"   north="-447.29" />
+</map>

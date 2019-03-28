@@ -1,0 +1,7 @@
+<meta>
+	<info author="Abel" description="3D obect pickups" name="objectPickup" type="script" version="1.0.0"/>
+	<script src="objectPickup_server.lua" type="server"/>
+	<script src="objectPickup_client.lua" type="client"/>
+	
+	<export function="createObjectPickup" type="server"/>
+</meta>

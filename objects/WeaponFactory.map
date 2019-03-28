@@ -1,0 +1,33 @@
+<map edf:definitions="editor_main">
+    <object id="object (Carter_drugfloor) (1)" doublesided="false" model="14412" interior="2" dimension="0" posX="2550.6298828125" posY="-1333.9931640625" posZ="1064.8048095703" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Carter-floors04) (1)" doublesided="true" model="14408" interior="2" dimension="0" posX="2497.0283203125" posY="-1330.015625" posZ="1062.6038818359" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (carter-stairs02) (1)" doublesided="false" model="14409" interior="2" dimension="0" posX="2516.7797851563" posY="-1334.4312744141" posZ="1056.4381103516" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (carter-stairs02) (2)" doublesided="false" model="14409" interior="2" dimension="0" posX="2529.9130859375" posY="-1327.5300292969" posZ="1056.4381103516" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (carter-cage) (1)" doublesided="false" model="14459" interior="2" dimension="0" posX="2545.8830566406" posY="-1334.0303955078" posZ="1062.5257568359" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (gs_cages) (1)" doublesided="false" model="14464" interior="2" dimension="0" posX="2486.771484375" posY="-1318.2232666016" posZ="1062.5186767578" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (carter-column01) (1)" doublesided="false" model="14413" interior="2" dimension="0" posX="2495.7707519531" posY="-1323.5679931641" posZ="1059.3161621094" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (lascarl) (1)" doublesided="false" model="5061" interior="2" dimension="0" posX="2470.6689453125" posY="-1329.9451904297" posZ="1054.8903808594" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (burg_lkupdoor) (1)" doublesided="false" model="5302" interior="2" dimension="0" posX="2567.8139648438" posY="-1342.0874023438" posZ="1056.3797607422" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (vegasaircon1) (2)" doublesided="false" model="3470" interior="2" dimension="0" posX="2518.8408203125" posY="-1323.3751220703" posZ="1063.6315917969" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Carter-floors04) (1)" doublesided="true" model="14408" interior="2" dimension="0" posX="2497.0283203125" posY="-1357.9143066406" posZ="1062.6038818359" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (Carter_drugfloor) (1)" doublesided="true" model="14412" interior="2" dimension="0" posX="2550.6298828125" posY="-1361.7623291016" posZ="1064.8048095703" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (ab_abbatoir05) (1)" doublesided="false" model="14584" interior="2" dimension="0" posX="2573.9479980469" posY="-1342.3422851563" posZ="1057.2607421875" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (GENERATOR_BIG) (1)" doublesided="false" model="934" interior="2" dimension="0" posX="2533.1157226563" posY="-1327.7205810547" posZ="1056.6910400391" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (GENERATOR_LOW) (1)" doublesided="false" model="943" interior="2" dimension="0" posX="2532.8366699219" posY="-1322.5511474609" posZ="1056.2268066406" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (missile_01_SFXR) (1)" doublesided="false" model="3790" interior="2" dimension="0" posX="2556.0661621094" posY="-1342.2416992188" posZ="1056.7325439453" rotX="270" rotY="0" rotZ="0" />
+    <object id="object (a51_srack1_) (1)" doublesided="false" model="3389" interior="2" dimension="0" posX="2519.8654785156" posY="-1338.7731933594" posZ="1059.6251220703" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (a51_srack1_) (2)" doublesided="false" model="3389" interior="2" dimension="0" posX="2519.865234375" posY="-1330.7878417969" posZ="1059.6251220703" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (a51_srack4_) (1)" doublesided="false" model="3388" interior="2" dimension="0" posX="2519.8564453125" posY="-1345.4259033203" posZ="1059.6251220703" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (a51_srack3_) (1)" doublesided="false" model="3387" interior="2" dimension="0" posX="2519.8615722656" posY="-1336.8011474609" posZ="1059.6251220703" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (a51_srack2_) (1)" doublesided="false" model="3386" interior="2" dimension="0" posX="2519.869140625" posY="-1324.7678222656" posZ="1059.6251220703" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (las2dkwar05) (1)" doublesided="false" model="5269" interior="2" dimension="0" posX="2502.6145019531" posY="-1342.7677001953" posZ="1055.5692138672" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (2)" doublesided="false" model="5269" interior="2" dimension="0" posX="2502.6276855469" posY="-1342.7816162109" posZ="1056.7270507813" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (3)" doublesided="false" model="5269" interior="2" dimension="0" posX="2502.6142578125" posY="-1317.2701416016" posZ="1055.5692138672" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (4)" doublesided="false" model="5269" interior="2" dimension="0" posX="2502.6420898438" posY="-1317.2554931641" posZ="1056.7447509766" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (5)" doublesided="false" model="5269" interior="2" dimension="0" posX="2476.7687988281" posY="-1342.767578125" posZ="1055.5692138672" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (6)" doublesided="false" model="5269" interior="2" dimension="0" posX="2471.7084960938" posY="-1339.7261962891" posZ="1053.2535400391" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (las2dkwar05) (7)" doublesided="false" model="5269" interior="2" dimension="0" posX="2505.7412109375" posY="-1322.3544921875" posZ="1054.4180908203" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (las2dkwar05) (8)" doublesided="false" model="5269" interior="2" dimension="0" posX="2508.1474609375" posY="-1320.3232421875" posZ="1055.5551757813" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (las2dkwar05) (9)" doublesided="false" model="5269" interior="2" dimension="0" posX="2511.2197265625" posY="-1342.767578125" posZ="1053.267578125" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (las2dkwar05) (10)" doublesided="false" model="5269" interior="2" dimension="0" posX="2514.2749023438" posY="-1342.78125" posZ="1056.7551269531" rotX="0" rotY="0" rotZ="90" />
+</map>

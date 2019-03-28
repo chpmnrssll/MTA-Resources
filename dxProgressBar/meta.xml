@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" name="dxProgressBar" type="script" version="1.0.0"/>
+	<script src="dxProgressBar_client.lua" type="client" />
+	<export function="dxProgressBar" type="client" />
+</meta>

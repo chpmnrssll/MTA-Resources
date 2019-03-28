@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (nt_securecam2_01) (2)" doublesided="false" model="1622" interior="0" dimension="0" posX="1445.0888671875" posY="-1300.1875" posZ="33.495090484619" rotX="0" rotY="0" rotZ="147.02072143555" />
+    <object id="object (nt_securecam2_01) (4)" doublesided="false" model="1622" interior="0" dimension="0" posX="1974.5386962891" posY="1193.0262451172" posZ="61.221389770508" rotX="0" rotY="0" rotZ="143.03713989258" />
+    <object id="object (nt_securecam2_01) (6)" doublesided="false" model="1622" interior="0" dimension="0" posX="-1482.9226074219" posY="919.97595214844" posZ="62.704261779785" rotX="0" rotY="0" rotZ="326.25500488281" />
+    <object id="object (nt_securecam2_01) (1)" doublesided="false" model="1622" interior="0" dimension="0" posX="1529.1029052734" posY="-1755.7590332031" posZ="31.264381408691" rotX="0" rotY="0" rotZ="236.37994384766" />
+    <object id="object (nt_securecam2_01) (3)" doublesided="false" model="1622" interior="0" dimension="0" posX="-1724.9483642578" posY="701.76745605469" posZ="101.09555053711" rotX="0" rotY="0" rotZ="147.60494995117" />
+    <object id="object (nt_securecam2_01) (5)" doublesided="false" model="1622" interior="0" dimension="0" posX="2387.380859375" posY="2434.0893554688" posZ="24.875003814697" rotX="0" rotY="0" rotZ="324.26995849609" />
+    <object id="object (nt_securecam2_01) (7)" doublesided="false" model="1622" interior="0" dimension="0" posX="-2014.9638671875" posY="884.41577148438" posZ="65.831352233887" rotX="0" rotY="0" rotZ="145.61993408203" />
+    <object id="object (nt_securecam2_01) (8)" doublesided="false" model="1622" interior="0" dimension="0" posX="1657.0369873047" posY="2287.0895996094" posZ="19.988565444946" rotX="0" rotY="0" rotZ="59.550018310547" />
+    <object id="object (nt_securecam2_01) (9)" doublesided="false" model="1622" interior="0" dimension="0" posX="2002.0941162109" posY="1671.6995849609" posZ="18.779813766479" rotX="0" rotY="0" rotZ="142.92004394531" />
+    <object id="object (nt_securecam2_01) (10)" doublesided="false" model="1622" interior="0" dimension="0" posX="977.38293457031" posY="2087.9743652344" posZ="20.478099822998" rotX="0" rotY="0" rotZ="234.4599609375" />
+    <object id="object (nt_securecam2_01) (11)" doublesided="false" model="1622" interior="0" dimension="0" posX="2100.9467773438" posY="1006.0620727539" posZ="35.659748077393" rotX="0" rotY="0" rotZ="323.75" />
+    <object id="object (nt_securecam2_01) (12)" doublesided="false" model="1622" interior="0" dimension="0" posX="2237.3395996094" posY="2397.7561035156" posZ="17.633949279785" rotX="0" rotY="0" rotZ="233.44494628906" />
+    <object id="object (nt_securecam2_01) (13)" doublesided="false" model="1622" interior="0" dimension="0" posX="2106.3666992188" posY="2142.7797851563" posZ="18.766361236572" rotX="0" rotY="0" rotZ="145.61993408203" />
+    <object id="object (nt_securecam2_01) (14)" doublesided="false" model="1622" interior="0" dimension="0" posX="-1521.4672851563" posY="675.78112792969" posZ="21.757663726807" rotX="0" rotY="0" rotZ="0" />
+</map>

@@ -1,0 +1,16 @@
+<map edf:definitions="editor_main">
+    <object id="object (sl_dtdoor1) (1)" doublesided="false" model="1538" interior="6" dimension="0" posX="270.36273193359" posY="91.609161376953" posZ="1000.0390625" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (sl_dtdoor1) (2)" doublesided="false" model="1538" interior="10" dimension="0" posX="229.37324523926" posY="115.22718811035" posZ="998.015625" rotX="0" rotY="0" rotZ="270" />
+	<object id="object (sl_dtdoor1) (1)" doublesided="false" model="1538" interior="3" dimension="0" posX="187.85789489746" posY="157.64933776855" posZ="1002.0234375" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (chinaTgate) (1)" doublesided="false" model="2930" interior="5" dimension="0" posX="321.34817504883" posY="310.11676025391" posZ="1000.7352294922" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (Gen_doorINT04) (1)" doublesided="false" model="1502" interior="5" dimension="0" posX="321.44302368164" posY="302.0078125" posZ="998.15454101563" rotX="0" rotY="0" rotZ="0" />
+    <object id="object (int3int_boxing30) (1)" doublesided="false" model="14782" interior="6" dimension="0" posX="254.88198852539" posY="82.231727600098" posZ="1002.4613647461" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (int3int_boxing30) (2)" doublesided="false" model="14782" interior="6" dimension="0" posX="258.52352905273" posY="85.921691894531" posZ="1002.4613647461" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (int3int_boxing30) (3)" doublesided="false" model="14782" interior="6" dimension="0" posX="251.29170227051" posY="91.035888671875" posZ="1002.4613647461" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (int3int_boxing30) (4)" doublesided="false" model="14782" interior="3" dimension="0" posX="205.12979125977" posY="180.36309814453" posZ="1003.0507202148" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (int3int_boxing30) (5)" doublesided="false" model="14782" interior="3" dimension="0" posX="208.33892822266" posY="173.85325622559" posZ="1003.0394897461" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (int3int_boxing30) (6)" doublesided="false" model="14782" interior="3" dimension="0" posX="208.3388671875" posY="163.22769165039" posZ="1003.0394897461" rotX="0" rotY="0" rotZ="270" />
+    <object id="object (int3int_boxing30) (7)" doublesided="false" model="14782" interior="3" dimension="0" posX="205.12890625" posY="168.3371887207" posZ="1003.0507202148" rotX="0" rotY="0" rotZ="90" />
+    <object id="object (int3int_boxing30) (8)" doublesided="false" model="14782" interior="10" dimension="0" posX="213.50003051758" posY="117.06739807129" posZ="998.90100097656" rotX="0" rotY="0" rotZ="180" />
+    <object id="object (int3int_boxing30) (9)" doublesided="false" model="14782" interior="10" dimension="0" posX="214.02487182617" posY="121.0673828125" posZ="998.90100097656" rotX="0" rotY="0" rotZ="90" />
+</map>

@@ -1,0 +1,78 @@
+<map>
+	<class id="Authorities" r="75" g="75" b="200">
+		<subclass id="County Police" r="75" g="75" b="200" weapons="3,1;24,107">
+			<spawnpoint id="Fort Carson" posX="322.79" posY="306.18" posZ="999" rotation="180" interior="5" dimension="0" skins="288,282"/>
+			<spawnpoint id="El Quebrados" posX="322.79" posY="306.18" posZ="999" rotation="180" interior="5" dimension="1" skins="283"/>
+			<spawnpoint id="Angel Pine" posX="322.79" posY="306.18" posZ="999" rotation="180" interior="5" dimension="2" skins="288"/>
+		</subclass>	
+		<subclass id="Police" r="50" g="50" b="250" weapons="3,1;24,107">
+			<spawnpoint id="Los Santos" posX="254.63" posY="66.17" posZ="1003.65" rotation="90" interior="6" dimension="0" skins="281"/>
+			<spawnpoint id="San Fierro" posX="246.43" posY="117.20" posZ="1003.21" rotation="180" interior="10" dimension="0" skins="280"/>
+			<spawnpoint id="Los Venturas" posX="230.49" posY="161.45" posZ="1003.02" rotation="180" interior="3" dimension="0" skins="282"/>
+		</subclass>
+		<subclass id="SWAT" r="25" g="25" b="250" weapons="3,1;29,230">
+			<spawnpoint id="Los Santos" posX="250.92" posY="89.10" posZ="1011.30" rotation="270" interior="6" dimension="0" skins="285"/>
+			<spawnpoint id="San Fierro" posX="259.21" posY="89.10" posZ="1011.30" rotation="90" interior="10" dimension="2" skins="285"/>
+			<spawnpoint id="Los Venturas" posX="250.92" posY="89.10" posZ="1011.30" rotation="270" interior="3" dimension="1" skins="285"/>
+		</subclass>
+		<subclass id="FBI" r="0" g="0" b="250" weapons="3,1;29,230">
+			<spawnpoint id="Surveillance Central" posX="-2450.25" posY="-635.01" posZ="169.45" rotation="90" interior="6" dimension="0" skins="286"/>
+		</subclass>
+	</class>
+	
+	<class id="Corporate" r="120" g="120" b="120">
+		<subclass id="Administration" r="120" g="120" b="120" weapons="24,107;29,230">
+			<spawnpoint id="Conference Room" posX="1775.20" posY="-1303.46" posZ="120.26" rotation="90" interior="0" dimension="0" skins="147"/>
+			<spawnpoint id="Private Office" posX="1794.91" posY="-1777.12" posZ="65.69" rotation="90" interior="3" dimension="2" skins="295"/>
+		</subclass>
+		<subclass id="Agent" r="120" g="120" b="120" weapons="24,107">
+			<spawnpoint id="Los Santos" posX="375.96" posY="170.29" posZ="1008.38" rotation="0" interior="3" dimension="0" skins="163"/>
+			<spawnpoint id="San Fierro" posX="362.60" posY="162.02" posZ="1008.38" rotation="0" interior="3" dimension="1" skins="164"/>
+			<spawnpoint id="Los Venturas" posX="363.33" posY="186.41" posZ="1008.38" rotation="180" interior="3" dimension="2" skins="164"/>
+		</subclass>
+	</class>
+	
+	<class id="Criminal" r="160" g="15" b="15">
+		<subclass id="Driver" r="160" g="15" b="15" weapons="41,90000">
+			<spawnpoint id="Private Garage" posX="-2747.69" posY="191.87" posZ="-15.49" rotation="0" interior="0" dimension="0" skins="29"/>
+			<spawnpoint id="Mod Shop" posX="-1806.76" posY="1201.30" posZ="42.21" rotation="270" interior="1" dimension="1" skins="2"/>
+		</subclass>
+		<subclass id="Thug" r="120" g="50" b="50" weapons="5,1;22,217">
+			<spawnpoint id="Los Santos" posX="502.85" posY="-4.41" posZ="1000.67" rotation="90" interior="17" dimension="0" skins="24"/>
+			<spawnpoint id="San Fierro" posX="502.86" posY="-14.45" posZ="1000.67" rotation="90" interior="17" dimension="1" skins="25"/>
+			<spawnpoint id="Los Venturas" posX="475.5" posY="-14.71" posZ="1003.69" rotation="270" interior="17" dimension="2" skins="21"/>
+		</subclass>
+		<subclass id="Pimp" r="130" g="30" b="130" weapons="15,1;22,217">
+			<spawnpoint id="Los Santos" posX="1218.61" posY="-1.58" posZ="1000.92" rotation="90" interior="2" dimension="0" skins="249"/>
+			<spawnpoint id="San Fierro" posX="-2667.45" posY="1427.57" posZ="906.46" rotation="180" interior="3" dimension="0" skins="296"/>
+			<spawnpoint id="Los Venturas" posX="1202.58" posY="11.34" posZ="1000.92" rotation="180" interior="2" dimension="1" skins="143"/>
+		</subclass>
+		<subclass id="Ho" r="225" g="65" b="95" weapons="10,1;22,217">
+			<spawnpoint id="Los Santos" posX="1202.58" posY="11.34" posZ="1000.92" rotation="180" interior="2" dimension="0" skins="257"/>
+			<spawnpoint id="San Fierro" posX="-2673.17" posY="1410.36" posZ="907.57" rotation="270" interior="3" dimension="0" skins="87"/>
+			<spawnpoint id="Los Venturas" posX="1218.61" posY="-1.58" posZ="1000.92" rotation="90" interior="2" dimension="1" skins="246"/>
+		</subclass>
+	</class>
+	
+	<class id="Gang" r="160" g="50" b="20">
+		<subclass id="Biker" r="160" g="50" b="20" weapons="7,1;26,202">
+			<spawnpoint id="Saloon" posX="681.46" posY="-451.8" posZ="-25.61" rotation="0" interior="1" dimension="69" skins="247"/>
+			<spawnpoint id="LiL Probe Inn" posX="-225.94" posY="1410.07" posZ="27.77" rotation="180" interior="18" dimension="0" skins="248"/>
+			<spawnpoint id="Gun Shop" posX="784.97" posY="1695.12" posZ="42.21" rotation="180" interior="1" dimension="1" skins="100"/>
+		</subclass>
+		<subclass id="Yakuza" r="120" g="60" b="15" weapons="8,1;28,450">
+			<spawnpoint id="Vault" posX="1533.12" posY="-1464." posZ="80.88" rotation="270" interior="1" dimension="1" skins="121"/>
+			<spawnpoint id="Memorial" posX="-1611.26" posY="886.45" posZ="47.47" rotation="270" interior="1" dimension="1" skins="123"/>
+			<spawnpoint id="Casino" posX="1976" posY="952.89" posZ="1029.72" rotation="90" interior="10" dimension="0" skins="122"/>
+		</subclass>
+		<subclass id="Italian" r="135" g="120" b="85" weapons="2,1;29,430">
+			<spawnpoint id="Mansion" posX="1275.16" posY="-790.14" posZ="1084.00" rotation="90" interior="5" dimension="0" skins="125"/>
+			<spawnpoint id="Compound" posX="-688.21" posY="937.90" posZ="13.63" rotation="0" interior="0" dimension="0" skins="124"/>
+			<spawnpoint id="Casino" posX="2300.4023" posY="1650.7731" posZ="1022.09918" rotation="180" interior="1" dimension="0" skins="111"/>
+		</subclass>
+		<subclass id="Russian" r="90" g="75" b="40" weapons="2,1;29,430">
+			<spawnpoint id="Casino" posX="1132.84" posY="6.61" posZ="1002.08" rotation="180" interior="12" dimension="0" skins="126"/>
+			<spawnpoint id="Cafe" posX="-787.57" posY="494.50" posZ="1376.19" rotation="0" interior="1" dimension="0" skins="127"/>
+		</subclass>
+	</class>
+</map>

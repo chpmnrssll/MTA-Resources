@@ -1,0 +1,5 @@
+<meta>
+	<info description="Shader - Ped Morph" version="0.0.3" type="script" />
+	<script src="c_ped_morph.lua" type="client" />
+	<file src="ped_morph.fx" type="client" />
+</meta>

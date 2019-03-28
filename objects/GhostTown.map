@@ -1,0 +1,15 @@
+<map edf:definitions="editor_main">
+    <object id="object (des_rockgp2_09) (1)" doublesided="false" model="16121" interior="0" dimension="0" posX="-393.046875" posY="2338.2197265625" posZ="36.823783874512" rotX="336.74194335938" rotY="0" rotZ="252.74597167969"></object>
+    <object id="object (des_rockgp2_09) (2)" doublesided="false" model="16121" interior="0" dimension="0" posX="-346.42044067383" posY="2335.3806152344" posZ="30.430034637451" rotX="348.75" rotY="0" rotZ="75.249938964844"></object>
+    <object id="object (des_rockgp2_05) (1)" doublesided="false" model="16118" interior="0" dimension="0" posX="-563.9873046875" posY="2380.349609375" posZ="71.327621459961" rotX="0" rotY="345.498046875" rotZ="249.99938964844"></object>
+    <object id="object (des_rockgp2_05) (2)" doublesided="false" model="16118" interior="0" dimension="0" posX="-537.107421875" posY="2371.63671875" posZ="65.302604675293" rotX="3.1201171875" rotY="343.97094726563" rotZ="246.89575195313"></object>
+    <object id="object (des_rockgp2_05) (3)" doublesided="false" model="16118" interior="0" dimension="0" posX="-489.607421875" posY="2376.13671875" posZ="71.902732849121" rotX="13.791625976563" rotY="341.69989013672" rotZ="278.75518798828"></object>
+    <object id="object (des_rockgp2_05) (4)" doublesided="false" model="16118" interior="0" dimension="0" posX="-330.67742919922" posY="2335.3623046875" posZ="54.243530273438" rotX="11.933288574219" rotY="353.86694335938" rotZ="273.27319335938"></object>
+    <object id="object (des_rockgp2_05) (5)" doublesided="false" model="16118" interior="0" dimension="0" posX="-339.1767578125" posY="2334.8623046875" posZ="45.743530273438" rotX="25.844787597656" rotY="353.3271484375" rotZ="274.91485595703"></object>
+    <object id="object (des_rockgp2_05) (6)" doublesided="false" model="16118" interior="0" dimension="0" posX="-314.1767578125" posY="2321.4814453125" posZ="58.993530273438" rotX="354.08386230469" rotY="349.9365234375" rotZ="216.94152832031"></object>
+    <object id="object (des_rockgp2_05) (8)" doublesided="false" model="16118" interior="0" dimension="0" posX="-317.1767578125" posY="2319.2314453125" posZ="48.243530273438" rotX="354.07836914063" rotY="349.93103027344" rotZ="50.938110351563"></object>
+    <object id="object (steerskull) (1)" doublesided="false" model="6865" interior="0" dimension="0" posX="-385.32061767578" posY="2206.1298828125" posZ="48.300716400146" rotX="23.431518554688" rotY="333.96350097656" rotZ="149.49328613281"></object>
+    <object id="object (door_savhangr2) (2)" doublesided="false" model="16775" interior="1" dimension="69" posX="681.625" posY="-446.9072265625" posZ="-26.750749588013" rotX="90" rotY="90" rotZ="0"></object>
+    <object id="object (door_savhangr2) (2)" doublesided="false" model="16775" interior="1" dimension="69" posX="680.29998779297" posY="-443.39999389648" posZ="-26.799999237061" rotX="0" rotY="0" rotZ="90"></object>
+    <object id="object (door_savhangr2) (2)" doublesided="false" model="16775" interior="1" dimension="69" posX="682.70001220703" posY="-443.39999389648" posZ="-26.799999237061" rotX="0" rotY="0" rotZ="90"></object>
+</map>

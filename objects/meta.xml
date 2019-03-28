@@ -1,0 +1,18 @@
+<meta>
+    <info type="map" version="1.0.0" />
+	<map src="AssassinMemorial.map" dimension="0" />
+	<map src="AssassinVault.map" dimension="0" />
+	<map src="BoneCountyBase.map" dimension="0" />
+	<map src="CasigulasOffice.map" dimension="0" />
+	<map src="DohertyGarage.map" dimension="0" />
+	<map src="DriftKing.map" dimension="0" />
+	<map src="FederalMint.map" dimension="0" />
+	<map src="FourDragonOffice.map" dimension="0" />
+	<map src="GhostTown.map" dimension="0" />
+	<map src="Mafia.map" dimension="0" />
+	<map src="Misc.map" dimension="0" />
+	<map src="MissionaryHill.map" dimension="0" />
+	<map src="Police.map" dimension="0" />
+	<map src="PrivateOffice.map" dimension="0" />
+	<map src="ConferenceRoom.map" dimension="0" />
+</meta>

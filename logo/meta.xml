@@ -1,0 +1,4 @@
+<meta>
+	<info name="logo" author="Abel" version="1.0.0" type="script"/>
+	<script src="logo_client.lua" type="client"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+	<info name="deathcam" author="Abel" version="1.0.0" type="script"/>
+	<script src="deathcam_client.lua" type="client"/>
+</meta>

@@ -1,0 +1,4 @@
+<meta>
+<script src="mechanic.lua"/>
+<script src="mechanic_client.lua" type="client"/>
+</meta>

@@ -1,0 +1,12 @@
+<meta>
+	<info name="Maximap examples" version="0.5" type="script" author="Gamesnert" description="A few examples for the maximap resource, to demonstrate several of it's capabilities"/>
+
+	<script src="mmcpanel.lua" type="client"/>
+	<script src="waypoint.lua" type="client"/>
+	<script src="mapnames.lua" type="client"/>
+	<script src="FPSTimer.lua" type="client"/>
+
+	<file src="images/sattelite.jpg"/>
+
+	<include resource="maximap"/>
+</meta>

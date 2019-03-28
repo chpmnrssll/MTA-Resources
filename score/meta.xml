@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" name="score" type="script" version="1.0.2"/>
+	<script src="score_client.lua" type="client"/>
+</meta>

@@ -1,0 +1,13 @@
+<meta>
+	<info author="Abel" description="fixes some collisions" name="colfix" type="script" version="1.0"/>
+	<script src="colfix_client.lua" type="client"/>
+	<file src="ab_mafiasuite01zzz.col"/>
+	<file src="cj_bag_reclaim.col"/>
+	<file src="hubinterior_sfs.col"/>
+	<file src="lan2officeflrs.col"/>
+	<file src="mafcastopfoor.col"/>
+	<file src="mp_dinersmall.col"/>
+	<file src="skyscrapn203.col"/>
+	<file src="tr_man_main.col"/>
+	<file src="tr_man_pillar.col"/>
+</meta>

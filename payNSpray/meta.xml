@@ -1,0 +1,10 @@
+<meta>
+	<info author="Abel" description="payNSpray" name="payNSpray" type="script" version="1.0"/>
+	<script src="payNSpray_server.lua" type="server" />
+	<script src="payNSpray_client.lua" type="client" />
+	<map src="payNSpray.xml" />
+	<settings>
+		<setting name="*sprayTime" value="2000"/> 
+		<setting name="*sprayCost" value="100"/> 
+	</settings>
+</meta>

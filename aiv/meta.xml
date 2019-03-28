@@ -1,0 +1,7 @@
+<meta>
+	<info author="Abel" type="script" version="1.0.0" />
+	<script src="aiv_server.lua" type="server" />
+	<script src="aiv_client.lua" type="client" />
+	<script src="vec3.lua" type="client" />
+	<script src="mat4.lua" type="client" />
+</meta>

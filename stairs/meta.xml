@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" name="stairs" type="script" version="1.0.0"/>
+	<script src="stairs_server.lua" type="server"/>
+    <map src="stairs.map"/>
+</meta>

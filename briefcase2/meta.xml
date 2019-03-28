@@ -1,0 +1,6 @@
+<meta>
+	<info author="Abel" type="script" name="briefcase" version="1.0.0"/>
+	<script src="espionage_server.lua" type="server"/>
+	<script src="espionage_client.lua" type="client"/>
+	<map src="briefcase.xml"/>
+</meta>

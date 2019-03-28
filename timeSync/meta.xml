@@ -1,0 +1,5 @@
+<meta>
+	<info author="Abel" version="1.0.0" type="script"/>
+	<script src="timeSync_client.lua" type="client" />
+	<script src="timeSync_server.lua" type="server" />
+</meta>

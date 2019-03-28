@@ -1,0 +1,6 @@
+<meta>
+	<info author="Abel" description="gates" name="gates" type="script" version="1.0"/>
+	<script src="gates_server.lua" type="server"/>
+	<script src="gates_client.lua" type="client"/>
+	<map src="gates.xml"/>
+</meta>

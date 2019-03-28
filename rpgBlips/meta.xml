@@ -1,0 +1,4 @@
+<meta>
+	<info author="Abel" name="rpgBlips" type="script" version="1.0.1"/>
+	<script src="rpgBlips_client.lua" type="client"/>
+</meta>

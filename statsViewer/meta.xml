@@ -1,0 +1,8 @@
+<meta>
+	<info author="Abel" name="statsViewer" type="script" version="1.0.0"/>
+	<script src="statsViewer_client.lua" type="client"/>
+	<script src="dxProgressBar_client.lua" type="client"/>
+	
+	<export function="showStats" type="client" />
+	<export function="hideStats" type="client" />
+</meta>
