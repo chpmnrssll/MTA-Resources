@@ -1,5 +1,5 @@
 # MTA-Resources
-Lua Resources for Multi Theft Auto
+(2010 ~ 2012) Lua Resources for Multi Theft Auto
 
 - adrenaline - This is a drug pickup that increases game speed for a limited amount of time (/createAD).
 - blips - Stealth radar blips, crouch to hide your blip while staying out of sight.
